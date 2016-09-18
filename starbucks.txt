@@ -1,0 +1,768 @@
+3456	Kyoto Research Park	"91, Chudojiawatacho, Shimogyo-ku"	Kyoto	26	JP	600-8815	35.01169205	135.7681732
+3455	Kumamoto You Me Town Hikarinomori	3102 Tsukure Kikuyo-cho	Kumamoto	43	JP	869-1101	32.80320358	130.7080383
+3457	ACTA Nishinomiya	"1-2, Kitaguchicho, Nishinomiya"	Hyogo	28	JP	663-8035	34.74729156	135.3584747
+3458	Karuizawa Prince Shopping Plaza	"Karuizawacho, Kitasaku-gun"	Nagano	20	JP	389-0102	36.64858246	138.1942139
+3459	Matsumoto Nagisa Life Site	1-7-1 Nagisa Matsumoto	Nagano	20	JP	390-0841	36.64858246	138.1942139
+3460	Yamatokoriyama APITA	"444, Tanakacho, Yamato Koriyama-shi"	Nara	29	JP	639-1028	34.6850853	135.8048401
+3461	AEON Mall Morioka	Morioka-shi	Iwate	3	JP		39.70360947	141.1524963
+3462	Atre Ebisu 2F	1-5-5 Ebisu	Shibuya	13	JP	150-0013	35.64712524	139.711441
+3463	Boeicho (Defense Agency)	5-1 Ichigayahonmuracho	Shinjuku	13	JP	162-8853	35.69379425	139.7034454
+3464	AEON Fuso	"5-1, Fusomachi, Tanba-gun"	Fuso	23	JP		35.3591423	136.9130249
+3465	AEON MALL Asahikawa-nishi	"2161-3 23-chome Midorimachi, Nishiki-cho Asahikawa-shi"	Asahikawa	1	JP	070-0823	43.79429626	142.3256836
+3466	Tamagawa Takashimaya S. C.	3-17-1 Tamagawa	Setagaya	13	JP	158-8502	35.61403275	139.6266937
+3468	Utsunomiya PASEO	"1-23, Kawamukaimachi, Utsunomiya-shi"	Tochigi	9	JP		36.3824501	139.7341003
+3470	JR Tokai Shinagawa Eki	"2, Konan."	Minato	13	JP		35.65801239	139.7515564
+3471	Minoh Market Park Visola	"562-0034  1, yado, Minoo"	Osaka	27	JP		34.69372177	135.5021667
+3472	Yokosuka US Navy Base	Yokosuka Naval Base 1559 Bldg. Tomaricho	Yokosuka	14	JP	238-0001	35.2812233	139.6721802
+3480	Fair Mall Matto	"280, Komeicho,"	Matto	17	JP		36.59468079	136.6255798
+3485	Fair Mall Fukui	"32-23, Owadacho, Fukui-shi"	Fukui	18	JP		36.06407166	136.219635
+3504	Otsu Katata	"2-12-2, Imakatada, Otsu-shi"	Shiga	25	JP		35.00453186	135.8685913
+3516	Machida Kanamori	"940-1, Kanamori,"	Machida	13	JP	194-0012	35.54661942	139.4387054
+3519	Urasoe Barclays Court	"2-2-9, Touyama"	Urasoe	47	JP	901-2104	26.24574852	127.7221756
+3523	Dazaifu Mukaisano	"306-15, Mukaizano, Dazaifu, Fukuoka"	Fukuoka	40	JP	818-0135	33.59009171	130.4016876
+3526	Youga	"5-39-22, Seta,"	Setagaya	13	JP	158-0095	35.64653778	139.6532288
+3473	Fukudaya Inter park	Utsunomiyashi	Tochigi	9	JP		36.54574585	139.8508301
+3474	AEON Haebaru	"264, Miyahira, Haebaru-cho"	Okinawa	47	JP	901-1104	26.33429146	127.8056107
+3476	Urayasu Kotobuki Bldg.	"1-15-9, Kitasakae,"	Urayasu	12	JP		35.65393448	139.9022369
+3477	Yokohama Business Park	"134, Kamidocho, Hodogaya-ku"	Yokohama	14	JP		35.44412231	139.6380768
+3479	AEON Iruma	"462, Kamifujisawa, Iruma-shi"	Saitama	11	JP		35.86162186	139.6455536
+3481	Nagasaki S Tobi Bldg	"1-22, Hamanomachi, Nagasaki"	Nagasaki	42	JP		32.75033188	129.8777161
+3482	AEON Mall Kyoto Hana	"25-1, Saiin Oiwakecho, Ukyo-ku, Kyoto"	Kyoto	26	JP	615-0035	35.01169205	135.7681732
+3483	Futamatagawa Seiyu	"2-52-1, Futamatagawa, Asahi-ku"	Yokohama	14	JP		35.44412231	139.6380768
+3484	AEON Mall Fukuoka LUCLE	"192-1, Oinoki, Sakado, Kasuya-machi"	Fukuoka	40	JP	811-2303	33.59009171	130.4016876
+3486	Akita ALS	"7-2-1, Naka-dori, Akita-shi"	Akita	5	JP		39.71982956	140.1023102
+3487	Sasebo Yonkacho	7-14 Shimanosecho Sasebo	Nagasaki	42	JP		32.75033188	129.8777161
+3489	Tokyo Kyuko Oimachi Eki	1-1-1 Oi	Shinagawa	13	JP		35.60765076	139.7346954
+3490	You Me Town Kure	"5-10, Takaramachi,"	Kure	34	JP	737-0029	34.2490921	132.565979
+3491	Nagano Eki-mae	"826, Minamichitose-cho, Nagono-shi"	Nagano	20	JP		36.64858246	138.1942139
+3494	Ikebukuro Shopping Park	"1-29-1, Minamiikebukuro,"	Toshima	13	JP	171-8532	34.52933121	139.2821045
+3495	Carrefour Higashi	"33-1, Aramotokita, Higashi"	Osaka	27	JP		34.69372177	135.5021667
+3498	Naogoya Fushimi AT Bldg	1-18-22 Nishiki Naka-ku	Nagoya	23	JP		35.18141556	136.9066925
+3499	JR Takatsuki Eki Kita	"1-2, Akutagawacho"	Takatsuki	27	JP	569-1123	34.8459549	135.6172943
+3500	Kiyose Eki-mae	"1-8-1, Motomachi,"	Kiyose	13	JP		35.78567886	139.5264282
+3502	Fussa SEIYU	"5, Higashicho,"	Fussa	13	JP	197-0021	35.73865891	139.3267517
+3503	Tobu Kita-senju Eki	"42-1 Senjuasahicho,"	Adachi	13	JP	120-0026	35.74985504	139.805481
+3505	Omiya Miyahara Steller Town	1-1-1 Miyahara Kita-ku Saitama	Saitama	11	JP	331-0812	35.86162186	139.6455536
+3506	AEON Kashiihama	"Kashiihama, Higashi-ku"	Fukuoka	40	JP		33.6544075	130.4271698
+3507	Seki Mago	"516, Kurachi"	Seki	21	JP		35.4957695	136.9179077
+3508	AEON Ota Shopping Center	"Ishiharacho,"	Ota	10	JP		36.29972076	139.404541
+3510	LUMINE Kawagoe	"39-19, Wakitahoncho, Kawagoe, Kawagoe-shi"	Saitama	11	JP	350-1123	35.86162186	139.6455536
+3511	JR Zushi Eki-mae	1-4-1 Zushi	Zushi	14	JP		35.29712677	139.5793457
+3512	Warabi Ito Yokado Nishikicho	"1-350-5, Nishikicho, Warabi-shi"	Saitama	11	JP		35.86162186	139.6455536
+3513	Otsuka Eki-mae	"2-13-1, Kitaotsuka,"	Toshima	13	JP		34.52933121	139.2821045
+3514	Higashi-ginza	"5-15-9, Ginza"	Chuo	13	JP		35.67056656	139.7720032
+3515	Juntenedo Univ. Hospital	"3-1-3, Hongo,"	Bunkyo	13	JP	113-8431	35.7075882	139.7522125
+3517	Kamakura Onarimachi	"15-11, Onarimachi"	Kamakura	14	JP	248-0012	35.31919098	139.5467834
+3518	Kumamoto Diamond City Clair	"2232, Nagaike, Uejima, Kashimamachi"	Kumamoto	43	JP	861-3106	32.80320358	130.7080383
+3520	Chatan JUSCO	"8-3, Mihama, Chatan-cho"	Okinawa	47	JP	904-0115	26.33429146	127.8056107
+3521	Tsutaya Hirakata Eki-mae Honten	"19-20, Okahigashicho"	Hirakata	27	JP	573-0032	34.81443024	135.6508026
+3522	APITA Shizuoka	1-5-1 Ishida Suruga-ku	Shizuoka	22	JP	422-8042	34.97515106	138.383255
+3524	Ario Sapporo	"2-20, Kita7-jo, Higashi9-chome, Higashi-"	Hokkaido	1	JP	065-8518	43.07149506	141.3704529
+3525	Tsurukawa	"63-4, Aza 1, Nougayamachi"	Machida	13	JP	195-0053	35.54661942	139.4387054
+3527	APITA Yokkaichi	"1-3-31, Yasujima"	Yokkaichi	24	JP	510-0075	34.96512985	136.6244507
+3529	NGO - Chubu Int'l Airport Cent	"1-2, Centrair, Central Japan Intl Airport Centrair-NGO"	Tokoname	23	JP	479-0881	35.25394058	136.9200745
+3530	Gushikawa Main City	"450-1, Esu, Gushikawa"	Okinawa	47	JP	904-2244	26.33429146	127.8056107
+3531	APITA Narumi	"3-9, Denjiyama, Narumicho, Midori-ku"	Nagoya	23	JP	458-0844	35.18141556	136.9066925
+3552	Yamato Takada	281-4 Jinraku Yamatotakada	Nara	29	JP	635-0026	34.6850853	135.8048401
+3568	Kumamoto Interchange	1-1-6 Kozono Kumamoto	Kumamoto	43	JP	864-8044	32.80320358	130.7080383
+3569	Bay Square Tsu	716 Fujikata	Tsu	24	JP	514-0815	34.68273163	136.5188599
+3570	Chatan Kokudo 58	1-5-11 Mihama Chatan-cho	Okinawa	47	JP	904-0115	26.33429146	127.8056107
+3572	Cainz Super Mall Kawajima	210 Kamiigusa Kawajima-machi	Saitama	11	JP	350-0152	35.86162186	139.6455536
+3532	APITA  Chiyodabashi	2-1-1 Chiyodabashi chikusa-ku	Nagoya	23	JP	464-0011	35.18141556	136.9066925
+3533	Hiroshima ALPARK	"2-26-1, Kusatsushinmachi ,Nishi-ku, Hiro"	Hiroshima	34	JP	733-0834	34.38523865	132.4553528
+3534	Tsukuba Q't	"1-6-1, Azuma"	Tsukuba	8	JP	305-0031	36.08347702	140.0764618
+3535	AEON Ueda	2-12-18 Tokida Ueda	Nagano	20	JP	386-0018	36.64858246	138.1942139
+3536	Kyoto Tower	"721-1 Higashishiokoujicho, Karasumadori-Nanajo-Sagaru, Shimogyo-Ku"	Kyoto	26	JP	600-8216	35.01169205	135.7681732
+3537	Toshimaen Eki-mae	"4-18-8, Nerima,"	Nerima	13	JP	176-0001	35.73569489	139.6516113
+3538	KIX - Kansai International Air	"1, Senshukukokita"	Izumisano	27	JP	549-0001	34.43466568	135.2446594
+3539	AEON Ujina	"6-1-15, Ujinahigashi, Minami-ku, Hiroshi"	Hiroshima	34	JP	734-0003	34.38523865	132.4553528
+3540	AEON Mall Hiroshima Fuchu Soleil	"1-121, Osu, Nakamachi, Aki-gun"	Hiroshima	34	JP	735-0021	34.38523865	132.4553528
+3542	JR Tokai Odawara Eki	"1-1-1, Shiroyama,"	Odawara	14	JP	250-0045	35.26460648	139.1522217
+3543	Hiratsuka OSC SHONAN CITY	33-1 Daikancho	Hiratsuka	14	JP	254-0807	35.32846832	139.3583679
+3544	Fuchu Kururu	"1-50, Miyamachi,"	Fuchu	13	JP	183-0023	35.66897583	139.4777222
+3545	Lavista Shinsugita	1-1-1 Sugita Isogo-ku	Yokohama	14	JP	235-0033	35.44412231	139.6380768
+3547	AEON Himejiotsu	"2-5, Otsucho, Otsu-ku, Himeji"	Hyogo	28	JP	671-1146	34.80462646	134.6072388
+3548	LaLport KOSHIEN	"1-100, Hachibancho, Koshien, Nishinomiya"	Hyogo	28	JP	663-8178	34.71734619	135.3644104
+3549	AEON Yatsushiro	"3987-3, Rokubanwari, Okimachi, Yatsushir"	Kumamoto	43	JP	866-0013	32.80320358	130.7080383
+3550	Pedi Shiodome	"1-9-1, Higashishinbashi,"	Minato	13	JP	105-7302	35.65801239	139.7515564
+3551	AEON Kitatoda	"1-3-1, Bijogihigashi, Toda"	Saitama	11	JP	335-0032	35.86162186	139.6455536
+3553	AEON Yono	"5-2-9, Honmachinishi, Chuo-ku, Saitama"	Saitama	11	JP	338-0004	35.86162186	139.6455536
+3554	Hamamatsu Plaza Frespo	"1020-33, Kaminishicho, Hamamatsu"	Shizuoka	22	JP	435-0048	34.97515106	138.383255
+3555	Kofu River City	"1122, Yamanokami, Tatomi-cho"	Yamanashi	19	JP	409-3845	35.69331741	138.6873016
+3556	AEON Atsuta	1-201 Mutsuno Atsuta-ku	Nagoya	23	JP	456-8763	35.18141556	136.9066925
+3558	AEON Hamamatsu Shitoro	5605 Shitorocho Nishi-ku	Hamamatsu	22	JP	432-8066	34.71080399	137.7261047
+3560	You Me Town Kurume	"Aikawacho, Kurume-shi"	Fukuoka	40	JP		33.59035492	130.4017181
+3563	AEON Rinku Sennan Shopping Center	"3-1, Minamihama, Rinku"	Sennan	27	JP	590-0535	34.36597824	135.2734222
+3564	AEON Sapporo Naebo	"3-chome, 2-jo, Higashi Naebo Higashi-ku, Sapporo-shi"	Hokkaido	1	JP		43.05500031	141.3409576
+3565	Musashimurayama Diamond City	1-1-3 Enoki	Musashimurayama	13	JP	208-0022	35.74652863	139.3849335
+3566	AEON Yahata Higashida	3/2/102 Higashida Yahatahigashi-ku Kitak	Fukuoka	40	JP	805-0071	33.59009171	130.4016876
+3567	Tenjin Chikagai	2-Chika 0 Tenjin Chuo-ku	Fukuoka	40	JP	810-0000	33.59009171	130.4016876
+3571	Ario Yao	2-3 Hikaricho	Yao	27	JP	581-0803	34.63266373	135.6059418
+3573	Kagoshima Tenmonkan	16-18 Higashisengoku-machi Kagoshima	Kagoshima	46	JP	892-0842	31.59667778	130.5574036
+3574	Kanazawa Forus	3-1 Horikawashinmachi	Kanazawa	17	JP	920-0849	36.56105042	136.6565247
+3575	Fujigaoka Effe Development	170-f Fujigaoka Meito-ku Nagoya	Nagoya	23	JP	465-0032	35.18141556	136.9066925
+3576	AEON Takasaki Shopping Center	1400 Munadaka-machi	Takasaki	10	JP	370-3521	36.39054108	139.0066528
+3578	AEON Moriguchi Dainichi	100-1 Dainichi-higashimachi	Moriguchi	27	JP	570-0016	34.74858856	135.5818787
+3579	Hasuda Service Area Up Lane	3475-3 Kurohama	Hasuda	11	JP	349-0101	36.00010681	139.6684418
+3580	La La Port Toyosu	2-4-9 Toyosu	Koto	13	JP	153-8614	35.65592575	139.7928162
+3581	NGO - Chubu International Airp	"1-1 Centrair, Central Japan Intl Airport Centrair-NGO"	Tokoname	23	JP	479-0881	35.25394058	136.9200745
+3582	Lazaona Kawasaki	72-1 Horikawacho Saiwai-ku	Kawasaki	14	JP	212-8576	35.53087616	139.7030029
+3583	Nagaoka Riverside Senshu	2-278 Senshu	Nagaoka	15	JP	940-2108	37.46060562	138.8269348
+3584	Namba Parks	2-10-70 Nanbanaka Naniwa-ku	Osaka	27	JP	556-0011	34.69372177	135.5021667
+3585	Keio University Hospital	35 Shinanomachi	Shinjuku	13	JP	160-8582	35.68149185	139.7182312
+3586	Tsutaya Bajikoen	2-14-18 Kamiyoga	Setagaya	13	JP	158-0098	35.6370697	139.6330261
+3587	Hino Manganji Bypass	4-24-6 Manganji	Hino	13	JP	191-0024	35.6701622	139.4112091
+3595	Beisia Tomisato	532 Nanae Tomisato Chiba	Chiba	12	JP	286-0221	35.60747147	140.1066437
+3604	Kanazawa Nonoichi	32gaiku-3 Sanno Nonoichi-machi	Kanazawa	17	JP	921-8825	36.56105042	136.6565247
+3606	Okayama Daianji	329-1 Nodononishimachi Okayama	Okayama	33	JP	700-0066	34.65514374	133.9197083
+3607	Kobe Tarumi Momoyamadai	"1400-12 Ogawa Shimohatacho, Tarumi-ku Kobe"	Kobe	28	JP	655-0861	34.68941116	135.195755
+3612	Omihachiman	2-3-11 Takakaicho-kita	Oumihachiman	25	JP	523-0896	35.12688828	136.1060181
+3613	Matsuiyamate	3-1-2 Matsuigaoka	Kyotanabe	26	JP	610-0353	34.83134079	135.7306366
+3616	Himeji Shikama	236 Ebisu Shikama-ku Himeji	Himeji	28	JP	602-8057	34.81541824	134.6854706
+3617	Kobe Kozudai	9-2-13 Kozudai Kita-ku Kobe	Kobe	28	JP	651-1515	34.68941116	135.195755
+3618	Hitachinaka	542-3 Mawatari	Hitachinaka	8	JP	312-0012	36.40130997	140.5813904
+3624	Kisarazu	1-15-1 Hotaruno	Kisarazu	12	JP	292-0038	35.37693405	139.9622345
+3632	AEON TOWN Fujiminami	118-10 Samejima Fuji	Shizuoka	22	JP	416-0934	34.97515106	138.383255
+3588	Yokohama World Porters	2-2-1 Shinko Naka-ku	Yokohama	14	JP	231-0001	35.44412231	139.6380768
+3589	AEON Takanohara	1-3 Saganakadai Kizugawa	Osaka	27	JP	619-0223	34.69372177	135.5021667
+3590	Shinmarubiru Building	1-5-1 Marunouchi	Chiyoda	13	JP	100-0005	35.68270493	139.7642517
+3591	Oyamayuen Harvest Walk	1475 Kizawa Oyama	Tochigi	9	JP	323-0014	36.3824501	139.7341003
+3592	AEON Takamatsunishi	1-1 Kozaihonmachi Takamatsu	Takamatsu	37	JP	761-8012	34.34276581	134.0466461
+3593	Kohoku Northport Mall	"1-25-1 Nakagawachuo Tsuzuki-ku, Kohoku New Town Center Kita SC"	Yokohama	14	JP	224-0003	35.44412231	139.6380768
+3594	Natori Diamond City Airy	460 Sekinoshita Masuda	Natori	4	JP	981-1224	38.17147446	140.8918915
+3596	Asahikawa University Hospital	1-1 Midorigaoka-higashi 2-jo 1-chome Asa	Sapporo	1	JP	078-8510	43.06203079	141.3543854
+3597	Fujigawa Service Area Down Lane	1348-3 Iwabuchi Fujigawa-cho	Shizuoka	22	JP	421-3305	34.97515106	138.383255
+3598	Hamanako Service Area	61-2 Sakume Mikkabicho	Hamamatsu	22	JP	431-1401	34.71080399	137.7261047
+3599	AEON Ogakiminami	2-100 Sotono	Ogaki	21	JP	503-0933	35.33674622	136.6139984
+3600	Wakayama Medical University Hospita	811-1 Kimiidera	Wakayama	30	JP	641-0012	34.18801117	135.1819153
+3601	You Me Town Saga	22 Hyogokita Tochikukakuseiri-Jigyokuiki	Saga	41	JP	849-0915	33.26345444	130.3008575
+3602	Saitama Medical University Hospital	1397-1 Inariyama Yamane	Saitama	11	JP	350-1241	35.86162186	139.6455536
+3603	You Me Town Hakata	1-1-1 Higashihama Higashi-ku Fukuoka	Fukuoka	40	JP	812-0055	33.59009171	130.4016876
+3610	Tokyo Midtown Complex Studio	E-0110 9-7-3 Akasaka	Minato	13	JP	107-0052	35.65801239	139.7515564
+3614	Keyaki Walk Maebashi	2-1-1 Bunkyocho	Maebashi	10	JP	371-0801	36.37915421	139.0783997
+3615	AEON Sapporo Hiraoka	3-1 Hiraoka 3-jo 5-chome Kiyota-ku Sappo	Sapporo	1	JP	004-0873	43.06203079	141.3543854
+3619	Yokohama La La Port	4035-1 Ikonobecho Tsuzuki-ku	Yokohama	14	JP	224-0053	35.44412231	139.6380768
+3620	Yamanashi University Hospital	1110 Shimokato Chuo	Yamanashi	19	JP	409-3898	35.69331741	138.6873016
+3622	Osaka Medical University Hospital	2-15 Yamadaoka	Suita	27	JP	565-0871	34.81956482	135.5283356
+3623	HND - Haneda Airport South Pie	1-1 Goryobokujyo Sanrizaku Narita	Ota	13	JP	282-0011	35.54814911	139.7863464
+3625	Machida Pario	1-15-13 Morino	Machida	13	JP	194-0022	35.54329681	139.443985
+3626	Shinjuku Mitsui Building	2-1-1 Nishishijuku	Shinjuku	13	JP	183-0410	35.69379425	139.7034454
+3627	Jingumae 6-chome	6-17-11Jingumae	Shibuya	13	JP		35.66546631	139.7035217
+3628	Toyama Kansui Park	1 Minamiirifunecho	Toyama	16	JP	930-0805	36.69588089	137.2137451
+3629	Mirai Nagasaki Cocowalk	1-19 Morimachi	Nagasaki	42	JP		32.76240158	129.8646698
+3630	NEC Tamagawa Renaissance City	1753 Shimonumabe Nakahara-ku	Kawasaki	14	JP	211-8666	35.53087616	139.7030029
+3631	Nagoya City University Hospital	1 Kawasumi Mizuhocho-ku Nagoya	Nagoya	23	JP	467-8602	35.18141556	136.9066925
+3633	Meguro Gonnosuke-zaka	1-2-19 Shimomeguro	Meguro	13	JP	153-0064	35.63416672	139.7134094
+3634	Kamisato SA Down Lane	820 Gomyo Kamisato-machi	Saitama	11	JP	369-0317	35.86162186	139.6455536
+3635	Sendai PARCO	1-2-3 Chuo Aoba-ku	Sendai	4	JP		38.26197433	140.8812561
+3636	Sendai FORUS	3-11-15 Ichibancho Aoba-ku	Sendai	4	JP		38.26821518	140.8694153
+3637	Qiz Mizonokuchi	1-13-1 Mizonokuchi Takatsu-ku	Kanagawa	14	JP		35.59904099	139.6119843
+3638	AEON Sakudaira	11-10 Sakudairaekiminami Saku	Nagano	20	JP		36.64858246	138.1942139
+3639	Kasumi Dining	"3-5-2 Kasumigasaki,, Kasumigaseki Bldg"	Chiyoda	13	JP		35.69392395	139.7537231
+3640	Atre vie Tabata	1-17-2 Higashitabata	Kita	13	JP		35.73824692	139.760849
+3644	Otemachi Conference Center	"1-3-2, Otemachi"	Chiyoda	13	JP		35.69392395	139.7537231
+3654	Ginza Five	5-1 Ginza	Chuo	13	JP	104-0061	35.6724205	139.7616272
+3660	Kofu Alps-dori	"59-12 Shimizuarai, Showa-cho"	Yamanashi	19	JP		35.69331741	138.6873016
+3645	Isezaki SMARK	"503, Nishikoho"	Isezaki	10	JP	372-0039	36.30013275	139.1961212
+3646	La La Garden Kawaguchi	"18-19, Miyacho, Kawaguchi"	Saitama	11	JP		35.86162186	139.6455536
+3647	Kyozuka City	652 kyozuka Urasoe	Okinawa	47	JP		26.33429146	127.8056107
+3648	Kawasaki BE	"26-1, Ekimae-Honmachi"	Kawasaki	14	JP	210-0000	35.53087616	139.7030029
+3651	Sendai Izumi Park Town Tapio	6-5-1 Teraoka Izumi-ku	Sendai	4	JP		38.26821518	140.8694153
+3652	Atre Omori	1-6-16 Omorikita	Ota	13	JP	143-0016	35.5883255	139.7282257
+3653	AEON Omagari	"177 Tsubotate Wago, AEON Omagari Shopping Center"	Daisen	5	JP	014-0033	39.43821716	140.5091095
+3655	AEON Shimotsuma	"972-1, Horigome"	Shimotsuma	8	JP		36.18444061	139.9674377
+3656	AEON Kahoku	"Ta25, Uchihicumi, AEON Ishikawa Kahoku Shopping Center"	Kahoku	17	JP	921-0001	36.71978378	136.7068481
+3657	Iiasu Tsukuba	"1, C50-gaiku, Kenkyugakuen"	Tsukuba	8	JP		36.08347702	140.0764618
+3658	Mitaka Lon Lon	"Mitaka LONLON, 3-46-4, Shimo-Renjaku,"	Mitaka	13	JP	181-0013	35.68331146	139.559845
+3659	Shinjuku Nomura Bldg	"1-26-2, Nishi-Shinjuku"	Shinjuku	13	JP	163-0590	35.69379425	139.7034454
+3661	Shisui Parking Area Down Lane	1394 Shisuicho	Inba-Gun	12	JP	285-0913	35.71244812	140.2785492
+3662	Dangozaka Service Area	5889 Ono	Uenohara	19	JP	409-0100	35.62327576	139.0518188
+3663	Kisogawa Diamond City Kirio	"25-1, Minamiyatsugaike, Kuroda, Kisogawa"	Ichinomiya	23	JP	493-0001	35.3040657	136.8025818
+3664	Kintetsu Higashiosaka	1-1-1 Chodo	Higashiosaka	27	JP	577-0056	34.66411209	135.5627441
+3665	Naha Main Place	"4-4, Omoromachi, Naha-shi"	Okinawa	47	JP		26.33429146	127.8056107
+3666	Naha Kokusai-dori Makishi	"2-1-1, Makishi, Naha-shi"	Okinawa	47	JP	900-0013	26.33429146	127.8056107
+3667	Mihama American Village	"16-2, Aza-Mihama, Chatan-cho, Nakagashira-gun"	Okinawa	47	JP		26.33429146	127.8056107
+3668	AEON Naha Shopping Center	"5-10-25, Kinjo, Naha-shi"	Okinawa	47	JP		26.33429146	127.8056107
+3670	Marinoa City Fukuoka Pier Walk	"2-13-16, Odo, Nishi-ku, Marinoa City Fukuoka"	Fukuoka	40	JP	819-0001	33.59009171	130.4016876
+3671	Hakata Hotel Centraza	"4-23 Hakataekichuogai Hakata-ku, Hotel Centraza Hakata"	Fukuoka	40	JP	812-0012	33.59009171	130.4016876
+3672	Akasaka Shin-nihon Bldg	"2-4-22, Daimyo, Chuo-ku, Fukuoka-shi"	Fukuoka	40	JP	810-0041	33.59009171	130.4016876
+3673	Hakata Asahi Bldg	"1-1, 2Chome, Hakata Eki0mae, Hakata-ku"	Fukuoka	40	JP		33.59009171	130.4016876
+3676	Media Mall Tenjin	"1-10-13, Tenjin MMT Bldg"	Fukuoka	40	JP		33.59009171	130.4016876
+3678	Hakata Canal City OPA	"Canal City Opa 1-2-22 Sumiyoshi,, Hakata-Ku, Fukuoka-shi"	Fukuoka	40	JP	812-0018	33.59009171	130.4016876
+3679	Tenjin IWATAYA  Z-SIDE	2-5-35 Tenjin Chuo-ku	Fukuoka	40	JP	810-0001	33.59009171	130.4016876
+3680	Oita Park Place	"6800-1, Kodairanotsuji, Matsuoka-aza, O-aza"	Oita	44	JP		33.23965073	131.6091156
+3681	Oita Wasada Tokiwa	"Tamazawa, Oita-shi, Wasada Tokiwa"	Oita	44	JP		33.18933105	131.5840607
+3682	Ooita Forus	"1-2-7, Chuomachi, Oita-shi"	Oita	44	JP	870-0035	33.23965073	131.6091156
+3684	AEON Suzuka Bell City	4-1-2 Shonohayama	Suzuka	24	JP	513-0834	34.87180328	136.5316315
+3685	MYCAL Kuwana	"1-22, Shin-Nishikata, MYCAL Kuwana"	Kuwana	24	JP		35.06225967	136.6836853
+3686	Kumamoto Shower-dori	"2-2, Shimo-tori, Kumamoto-shi,"	Kumamoto	43	JP		32.80320358	130.7080383
+3688	Kumamoto New-S	"2, Kamito-ri machi, Kumamoto-shi, Kumamoto Tsuruya K-2 Bldg"	Kumamoto	43	JP		32.80320358	130.7080383
+3689	Nagasaki You Me Saito	"10-1, Motofune-cho, Nagasaki-shi"	Nagasaki	42	JP		32.75033188	129.8777161
+3691	AEON Sapporo Soen	"14, Kita 9-jo Nishi, Chuo-ku,"	Sapporo	1	JP		43.06203079	141.3543854
+3692	Susukino Ito Yokado	1 Nishi 4-chrome Minami 4-jo Chuo-ku	Sapporo	1	JP	064-0804	43.06203079	141.3543854
+3693	Sapporo Grand Hotel	"Nishi 4-chome, Kita 1-jo, Chuo-ku, Sapporo-shi"	Hokkaido	1	JP		43.05546188	141.3409576
+3695	Sapporo Minami-ichijo	"Minami 1-jo K Bldg., Nishi 2-chome"	Hokkaido	1	JP	060-0061	43.05615234	141.3331757
+3696	Morioka Saien	"1-11-11, Saien, Morioka-shi"	Iwate	3	JP		39.97261047	141.2125092
+3699	Garden Park Wakayama	"1469-1, Mukaiunoshima, Matsue, Wakayama"	Wakayama	30	JP	640-8421	34.23057175	135.1707916
+3701	Kamiyacho Shareo	"1chome, Kamiya-cho, Hiroshima-shi"	Hiroshima	34	JP		34.38523865	132.4553528
+3702	Hiroshima Station Asse	"2-37, Matsubaramachi, Minami-ku"	Hiroshima	34	JP		34.38523865	132.4553528
+3704	NHK Hiroshima Broadcast Center	"2-11-10, Otemachi, Naka-ku,Hiroshima-shi"	Hiroshima	34	JP		34.38523865	132.4553528
+3705	Hiroshima Hon-dori	"9-1, Hon-dori, Naka-ku"	Hiroshima	34	JP		34.38523865	132.4553528
+3707	Takamatsu Marugame-cho FESTA	6-1 Marugame-cho	Kagawa	37	JP		34.28417206	133.7905731
+3708	Takamatsu Tenmaya	"2-5, Kawara-machi, Takamatsu-shi"	Kagawa	37	JP		34.33982468	134.0525665
+3709	Takamatsu You Me Town	"Kamitenjin-cho, Takamatsu-shi"	Kagawa	37	JP		34.31310272	134.036026
+3710	Shimonoseki Daimaru (Dead)	"4-4-10, Takezaki-cho,, Shimonoseki-shi"	Yamaguchi	35	JP			
+3711	Seiseki Sakuragaoka OPA	"Seiseki Sakuragaoka OPA, 4-72, Sekito,"	Tama	13	JP	206-0011	35.63706207	139.4463043
+3712	Shinbashi Kashiekei	"2-19-3, Shinbashi, Kashikei Bldg."	Minato	13	JP	105-0004	35.65801239	139.7515564
+3713	Kyobashi Station	"2-4-12, Kyobashi, Kyobashi Daiichi Seimei Bldg."	Chuo	13	JP	104-0031	35.67056656	139.7720032
+3714	Kameido ELNARD	"5-1-1, Kameido, Kameido ELNARD"	Koto	13	JP		35.67281723	139.8173065
+3715	Toyosu Center Bldg.	"3-3-3, Toyosu,, Toyosu Center Bldg."	Koto	13	JP		35.67281723	139.8173065
+3716	Minami Aoyama	"NXB Aoyama 1F, 2-26-37, Minami-Aoyama,"	Minato	13	JP	107-0062	35.65801239	139.7515564
+3717	Jiyugaoka Kuriyama Building	2-10-8 Jiyugaoka	Meguro	13	JP	152-0035	35.60818863	139.6678009
+3718	Yaesu Chikagai	"2-1 Yaesu, Yaesu Shopping Mall No. 3"	Chuo	13	JP	104-0028	35.67988968	139.7694397
+3719	Machida Tokyu Twinz	"6-9-7, Haramachida, Tokyu Department Store 3F"	Machida	13	JP	194-0013	35.54661942	139.4387054
+3720	Oizumi Gakuen Yumeria Fente	"5-600, Higashi-oizumi,"	Nerima	13	JP		35.73569489	139.6516113
+3722	Shin-Otemachi Bldg.	"2-2-1, Otemachi,"	Chiyoda	13	JP		35.69392395	139.7537231
+3724	ES- Yutikamome Shinbashi Station	"1-5, Higashi Shinbashi,"	Minato	13	JP		35.65801239	139.7515564
+3725	Kamiya-cho Atago Green Hills	"2 chome, Atago"	Minato	13	JP		35.65801239	139.7515564
+3726	Harumi Island Triton Square	"1-13, Harumi,"	Chuo	13	JP		35.67056656	139.7720032
+3727	Kanamachi LUMINUS	"6-1599-10, Kanamachi-cho"	Katsushika	13	JP		35.74345016	139.8472443
+3728	Ginza Corridor Street	"7-2-22, Ginza, Ginza Dowa Bldg."	Chuo	13	JP	104-0061	35.67056656	139.7720032
+3730	Inkebukuro Meiji Street	"1-18-17, Minami-Ikebukuro, I&K Bldg."	Toshima	13	JP	171-0022	34.52933121	139.2821045
+3731	Kokubunji Hataman Bldg.	"2-10-2, Honcho, Hataman Bldg."	Kokubunji	13	JP	185-0012	35.71038818	139.4632111
+3732	Akabane Eki-mae	"1-1-1, Akabane, Akabane Station Shopping Center"	Kita	13	JP	115-0045	35.75283432	139.7335205
+3734	Shinjuku Taian Bldg.	"3-36-6, Shinjuku,"	Shinjuku	13	JP		35.69379425	139.7034454
+3735	Yokohama Motomachi	"1-13, Motomachi, Naka-ku, Lavi Motomachi"	Yokohama	14	JP	231-0861	35.44412231	139.6380768
+3737	Ikebukuro Nishiguchi	"1-17-10, Nishi-Ikebukuro,"	Toshima	13	JP		34.52933121	139.2821045
+3738	Kichijoji Shinsei Bank	"1-15-9, Kichijoji-hon-cho"	Musashino	13	JP	180-0004	35.71769333	139.56604
+3739	Nakameguro Yamate-dori	3-1-3 Kamimeguro	Meguro	13	JP	153-0051	35.64526367	139.6975708
+3741	Tennozu M&I	"2-2-4, Higashi-Shiagawa,"	Shinagawa	13	JP		35.60915756	139.7301636
+3742	Ginza Marronnier-dori	"3-7-3, Ginza"	Chuo	13	JP	104-0061	35.67056656	139.7720032
+3743	Kiba Ito Yokada Shopping Centre	"1-12-3, Kiba, Ito Yokado Kiba"	Koto	13	JP		35.67281723	139.8173065
+3744	Musashi Sakai Ito Yokado Shopping C	"2-3-6, Kyonancho, Ito Yokado Musahisakai"	Musashino	13	JP		35.71769333	139.56604
+3745	Minamisuna JUSCO	"6-7-15, Minamisuna,, Jusco Minamisuna"	Koto	13	JP		35.67281723	139.8173065
+3746	Mitsuya Yotsuya	"2-14-4, Yotsuya, Mitsuya Yotsuya Bldg."	Shinjuku	13	JP	160-0004	35.69379425	139.7034454
+3748	Korinbo	2-1-1 Kohrinbo	Kanazawa	17	JP		36.56105042	136.6565247
+3751	Kawaguchi Diamond City Carat	"1-1-11, Maekawa, Kawaguchi-shi, DIAMOND CITY carat"	Saitama	11	JP		35.86162186	139.6455536
+3752	Kumagaya Station Bldg. AZ second	"2-115, Tsukuba, Kumagaya-shi"	Saitama	11	JP		35.86162186	139.6455536
+3753	Hanno PEPE	"11-21, Hannno-shi"	Saitama	11	JP		35.86162186	139.6455536
+3754	Omiya LUMMINES 2	"630, Nishiki-cho, Omiya-shi"	Saitama	11	JP	330-0853	35.86162186	139.6455536
+3756	Shiki Eki-mae Station	"2-39-1, Tohoku, Niiza-shi, Igeta Dai2 Bldg"	Saitama	11	JP		35.86162186	139.6455536
+3757	Saitama Hiroba	"2-27, Takatanibashi, Kamiochiai, Yon-shi"	Saitama	11	JP		35.86162186	139.6455536
+3758	Shintokorozawa PARCO	"1-2-1, Midorimachi, Tokorozawa PARCO"	Saitama	11	JP		35.86162186	139.6455536
+3759	Musashi Urawa Beans	"7-12, Bessho, Urawa-shi, Saitama"	Saitama	11	JP		35.86162186	139.6455536
+3760	Kitaurawa Yoshida	"4-5-2, Kitaurawa, Saitama-shi"	Saitama	11	JP		35.86162186	139.6455536
+3761	Kawagoe Maruhiro Project	"2-11-1, Shintomi-cho, Kawagoe-shi"	Saitama	11	JP		35.86162186	139.6455536
+3763	"Omiya Nishiguchi NY Blgd.,"	"1-1-12, Sakuragi-cho, Saitama-shi"	Saitama	11	JP		35.86162186	139.6455536
+3764	Hon Kawagoe Station	"Nakahara-cho, Kawagoe-shi, Saitama"	Saitama	11	JP		35.86172867	139.6454773
+3765	AEON Takaoka Shopping Center	"383, Shimofumae, Takaoka-shi"	Toyama	16	JP		36.69588089	137.2137451
+3766	Izumichuo Selva	"1-4-1, Izumi Chuo, Izumi-ku"	Sendai	4	JP		38.26821518	140.8694153
+3768	Sendai Yamafuku Bldg	"2-5-3, Chuo, Aoba-ku"	Sendai	4	JP		38.26821518	140.8694153
+3769	Hotel Rich Field Sendai	"2-2-2, Kokubun, Aoba-ku"	Sendai	4	JP		38.26821518	140.8694153
+3770	The Mall Sendai Nagamachi	"7-20-3, Nagamachi, Tshiro-ku"	Sendai	4	JP		38.26821518	140.8694153
+3771	Sendai AER	"1-3-1, Chuo, Aoba-ku"	Sendai	4	JP		38.26821518	140.8694153
+3772	Sendai Endo Bldg	"1-2-10, Tsutsujigaoka, Miyagino-Ku, Endo Bldg"	Sendai	4	JP		38.26821518	140.8694153
+3773	Sendai ESPAL	"1-1-1, Chuo, Aoba-ku, 1F, S-PAL"	Sendai	4	JP	980-0021	38.26821518	140.8694153
+3775	Utsunomiya PARCO	3-1-1 Baba-dori	Utsunomiya	9	JP		36.56089401	139.8865356
+3776	Utsunomiya Fukudaya	"237, Imaizumi-cho, Fukudaya Shopping Plaza Utsunomiya"	Utsunomiya	9	JP		36.55509949	139.8824615
+3778	"Takasaki Station Bldg., Montres"	"222, yajima-cho"	Takasaki	10	JP		36.32186127	139.0031586
+3780	Shin-Sakae Hotel Preseed Nagoya	"4-6-1, Sakae, Naka-ku, HOTEL PRECEDE NAGOYA"	Nagoya	23	JP	460-0008	35.18141556	136.9066925
+3784	Karasuma Kyoto Hotel	"652 Nijohanjikicho Karasuma-Ayanokuji, Saguru Shimogyo-ku"	Kyoto	26	JP	600-8412	35.01169205	135.7681732
+3785	Kyoto PORTA	902 Shiokouji Karasuma-Dori Shimogyou-ku	Kyoto	26	JP		35.01169205	135.7681732
+3786	Kitaouji Kansai Denryoku	"50, Koyamakamisou-cho, kita-ku,"	Kyoto	26	JP		35.01169205	135.7681732
+3787	Kyoto Shin-kyogoku	"Shin-kyogoku-dori, 3-jo kudaru, Nakagyo-ku"	Kyoto	26	JP		35.01169205	135.7681732
+3788	Kyoto Karasumaru Bldg.	"85-1 Mikuracho Sanjo-Karasuma-Nishiiru, Nakagyo-ku, Karasuma Bldg."	Kyoto	26	JP	604-8166	35.01169205	135.7681732
+3789	Yamashina Eki-mae	"Yamashina-ku, Kyoto-shi"	Kyoto	26	JP		34.98317719	135.816391
+3790	Kyoto Gion Hotel	"555 Minamigawa, Gion-cho, higashiyama-ku"	Kyoto	26	JP		35.01169205	135.7681732
+3791	Qanat Rakuhoku	"36, Nishibiraki-cho, Takano, Sakyo-ku, Qanat Rakuhoku"	Kyoto	26	JP		35.01169205	135.7681732
+3792	Kyoto Shijo-dori Yasaka Bldg	"Yasaka Shijo Bldg. 106, Tachiurinakacho,, Shijo-dori Yanaginobanba, Shimogyo-ku"	Kyoto	26	JP	600-8006	35.01169205	135.7681732
+3793	Kyoto Sanjouoohashi	113 Higashiiru Nakajima-cho Sanjo-tori K	Kyoto	26	JP	604-8004	35.01169205	135.7681732
+3794	Shizuoka Gofuku-cho-dori	"2-8-9, Gofuku-cho, Shizoka"	Shizuoka	22	JP	420-0031	34.97515106	138.383255
+3795	Zaza City Hamamatsu	"Hamamatsu, Nishi-kan, 15, Kaji-cho, Hama, ZAZA City"	Shizuoka	22	JP		34.97515106	138.383255
+3796	Shizuoka Marui	"6-10, Miyuki-cho, Shizuoka-shi"	Shizuoka	22	JP		34.97515106	138.383255
+3797	Shizuoka Shiyakusho Mae	"2-2-9, Gofukucho, Shizuoka-shi"	Shizuoka	22	JP		34.97515106	138.383255
+3800	Sannomiya Daie	6-1-15 Kumoi-dori-cyou	Kobe	28	JP		34.68941116	135.195755
+3801	Daimaru Suma	"2-2-4, Naka-Ochiai, Suma-ku, Kobe-shi, Daimaru Suma"	Kobe	28	JP		34.68941116	135.195755
+3802	Kobe Kyu-Kyoryuti	1-2-1 Sakaemachidori Chuo-ku	Kobe	28	JP	650-0023	34.68941116	135.195755
+3803	Kobe International House	"8-1-6, Miyuki-dori, Chuo-ku, Kobe-shi, Kobe Kokusai-Kaikan"	Kobe	28	JP	651-0087	34.68941116	135.195755
+3804	Marine Pier Kobe	"2169, Kaigan-dori, Tarumi-ku, Kobe-shi,, Hyogo, Marine Pier Kobe Port Bazzar"	Kobe	28	JP	655-0036	34.68941116	135.195755
+3807	Settsu-Motoyama Nirakuen Bldg.	"1-2-17 Okamoto Higashinada-ku, Settsumotoyama Nirakuen Bldg."	Kobe	28	JP	658-0072	34.68941116	135.195755
+3808	Akashi VIVRE	"1-3-2, Yurinoki-dori, Okubo-cho, Akashi-"	Kobe	28	JP		34.68941116	135.195755
+3809	Kobe Motomachi Eki-mae	"3-7-6, Sannomiyamachi, Chuo-ku"	Kobe	28	JP	650-0021	34.68941116	135.195755
+3810	Nara Gakuenmae Station Bldg.	"3cho-me, Gakuenminami, Nara-shi"	Nara	29	JP		34.6850853	135.8048401
+3811	Nara Saidaiji Eki-mae Bldg.	"2-1-63, Saidaiji Higashi-machi, Nara-shi"	Nara	29	JP		34.6850853	135.8048401
+3813	Himeji Forus	"100, Ekimae-cho, Himeji-shi"	Hyogo	28	JP		34.82744217	134.6915588
+3814	AEON MALL Itami	"Amatsu, Itami-shi"	Hyogo	28	JP		34.78244781	135.4250488
+3816	Okakyama 1bangai	"Ekimotomachi, Okayama-shi"	Okayama	33	JP		34.66624832	133.9150696
+3818	Okayama LOTZ Kan	"1-11-54, Nakasange, Okayama-shi, Okayama LOTZ"	Okayama	33	JP	700-0821	34.65514374	133.9197083
+3819	Hotel Keihan Universal Tower - Remo	"6-40-12, Shimaya, Konohana-ku"	Osaka	27	JP		34.69372177	135.5021667
+3821	JR Takatsuki Station Minami	"7-12, Konya-cho"	Takatsuki	27	JP		34.8459549	135.6172943
+3822	"Nishihonmachi EGG Bldg.,"	"1-3-18, Anamiza, Nishi-ku"	Osaka	27	JP		34.69372177	135.5021667
+3825	Nanba Nankai-dori	"12-30, Nanba Sennichi mae, Chuo-ku"	Osaka	27	JP		34.69372177	135.5021667
+3826	Midosuji Gland Bldg	"2-2-3, Nanba Chu-ku"	Osaka	27	JP		34.69372177	135.5021667
+3829	Chayamachi Applause Tower	"19-19 Chayamachi, Kita-ku, Applause Tower"	Osaka	27	JP	530-0013	34.69372177	135.5021667
+3831	Umeda HEP Five	"5-15, Katuta-cho, Kita-ku, 7F, Umeda HEP FIVE"	Osaka	27	JP	530-0017	34.69372177	135.5021667
+3833	Rinku Premium Outlets	"3-28, Rinku, Ouraiminami"	Izumisano	27	JP	598-0047	34.40678024	135.3273926
+3835	Osaka Maru Building	"1-9-20, Umeda, Kita-ku"	Osaka	27	JP	530-0001	34.69372177	135.5021667
+3841	Kishiwada Can Can Bayside Mall	"3-1, Minato Midori-machi, Kishiwada Can Can Bayside Mall"	Kishiwada	27	JP	596-0014	34.460495	135.3709717
+3842	ITM - Osaka Itami Airport	"Bldg., 3-555, Hotarugaike Nishimachi,, Osaka International Airport Terminal"	Toyonaka	27	JP	560-0036	34.79152679	135.4401093
+3843	Midosuji Honmachi Toshiba Bldg	"4-2-12, Honmachi, Chuo-ku,, Toshiba Osaka Bldg."	Osaka	27	JP	541-0053	34.69372177	135.5021667
+3844	Shin-Osaka Nissay Bldg	"3, Miyahara"	Yodogawa	27	JP	532-0003	34.73334503	135.4952698
+3845	Sakaisuji Honmachi Nissei Bdg	"1-8-12, Honmachi, chuo-ku, Nihon Seimei Sakaisuji Honmachi Bldg."	Osaka	27	JP	541-0053	34.69372177	135.5021667
+3846	Higobashi Minami Daiichi Bldg.	"1-2-16, Edohori, Nishi-ku, Daiichi Bldg."	Osaka	27	JP	550-0002	34.69372177	135.5021667
+3847	Kyobashi Keihan Mall	2-1-38 Higashinodacho Miyakojima-ku	Osaka	27	JP	534-0024	34.69372177	135.5021667
+3848	OBP Matsushita IMP Bldg.	"1-3-7, Shiromi, Chuo-ku,"	Osaka	27	JP		34.69372177	135.5021667
+3849	Sakurabashi Plaza Bldg.	"1-24-22, Sonesaki Shinchi, Kita-ku"	Osaka	27	JP		34.69372177	135.5021667
+3850	Yotsubashi	"1-1-18, Kita-horie, Nishi-ku"	Osaka	27	JP		34.69372177	135.5021667
+3852	Hankyu Ikeda Station	"1-1, Sakae-cho"	Ikeda	27	JP		34.82156754	135.4283905
+3854	Nakanoshima Mitsui Bldg.	"3-3-3, Nakanoshima, Kita-ku"	Osaka	27	JP		34.69372177	135.5021667
+3856	Higashi Kori Tsutaya	3-3-13 Higashikouri	Hirakata	27	JP	573-0075	34.81443024	135.6508026
+3857	Tanimachisuji NS Bldg	"2-2-22 Tanimachi, Chuo-ku,, NS Bldg."	Osaka	27	JP	540-0012	34.69372177	135.5021667
+3859	Osaka Garden City Yasuda Seimei Bld	"3-3-20, Umeda, Kita-ku, Yasuda Seimei Osaka Bldg."	Osaka	27	JP	530-0001	34.69372177	135.5021667
+3862	Kashiwa VAT (Marui Kashiwa)	"1-1-11, Kashiwa, Marui Kashiwa VAT"	Chiba	12	JP		35.60747147	140.1066437
+3863	Hiroo North Gate Project	"5, Hiroo,"	Shibuya	13	JP		35.66392899	139.6980591
+3864	Shinjuku L Tower	"1-6-1, Nishishinjuku,"	Shinjuku	13	JP		35.69379425	139.7034454
+3866	Shinjyuku Shinminamiguchi	"4-1-9, Shinjuku,"	Shinjuku	13	JP		35.69379425	139.7034454
+3868	Okachimachi Kasuga - dori	"6-2-1, Ueno,"	Taito	13	JP	110-0005	35.71258926	139.7799988
+3869	Asakusa Eki-mae	"1-5-1 Hanakawado,"	Taito	13	JP		35.71194458	139.7979584
+3870	Shibuya Bunkamura-dori	"2-25-6 Dogenzaka, Horiuchi Bldg."	Shibuya	13	JP	150-0043	35.66025925	139.6965942
+3871	Harajuku	"1-8-6, Jingumae, Tamagami Bldg."	Shibuya	13	JP	150-0001	35.66392899	139.6980591
+3872	Shinjuku Southern Terrace	"Shinjuku Southern Terrace, 2-2-1,, Yoyogi"	Shibuya	13	JP	151-0053	35.66392899	139.6980591
+3874	Nihonbashi-honcho	2-4 Nihonbashi Honmachi	Chuo	13	JP	103-0023	35.67056656	139.7720032
+3876	Yaesu Sakura-dori	"1-6-3, Yaesu, Kotetsu Bldg."	Chuo	13	JP	103-0028	35.67056656	139.7720032
+3877	Yaesu Urban Square	"2-4-13, Yaesu, Urban Square Yaesu"	Chuo	13	JP	104-0028	35.67056656	139.7720032
+3878	Sanno Park Tower	"2-11-1, Nagata-cho, Sanno Park Tower"	Chiyoda	13	JP	100-0014	35.69392395	139.7537231
+3879	Kudanshita	"1-2-1, Kudan-Kita, Tomin Shinyo Kumiai Kudan Bldg."	Chiyoda	13	JP	102-0073	35.69392395	139.7537231
+3880	Ebisu UNION Bldg.	"1-2-10 Ebisu Minami, Ebisu UNION Bldg."	Shibuya	13	JP	150-0022	35.64611053	139.7079468
+3882	Asakusa kaminarimon-dori	"2-16-7, Kaminarimon,, Grand Copie Asakusa Kaminarimon"	Taito	13	JP		35.71258926	139.7799988
+3883	Tamachi Mitsubishi Automobile Bldg.	"5-33-8,Shiba,, Mitsubishi Motors Bldg."	Minato	13	JP		35.65801239	139.7515564
+3884	JR Tokyo Eki Nihonbashiguchi	1-9-1 Marunouchi	Chiyoda	13	JP	100-0005	35.68141937	139.7689514
+3885	Tama Center Mitsukoshi	"1-46-1, Ochiai,"	Tama	13	JP		35.63706207	139.4463043
+3886	Minami Aoyama Kotto-dori	"5-4-27, Minami Aoyama"	Minato	13	JP		35.65801239	139.7515564
+3887	Kayabacho	1-12-2 Nihonbashikayabacho	Chuo	13	JP	103-0025	35.67056656	139.7720032
+3888	Kinshi-cho MARUI	"3-9-10, Kotobashi,"	Sumida	13	JP		35.71070099	139.8015442
+3890	Access Omotesando	"AXES Omotesando, 3-6-17, Kita-Aoyama,"	Minato	13	JP	107-0061	35.65801239	139.7515564
+3891	Aoyama Kotto-dori	"Hachihonkan 1F, 5-10-1, Minami-Aoyama,"	Minato	13	JP	107-0062	35.65801239	139.7515564
+3892	Kichijoji Tokyu	"2-3-1, Honmachi, Kichijoji,, Tokyu Department Store Kichijoji"	Musashino	13	JP	180-0004	35.71769333	139.56604
+3894	Hamamatsucho Toshiba Bldg.	"1-1-1, Shibaura, Toshiba Bldg."	Minato	13	JP	105-0023	35.65801239	139.7515564
+3895	Marunouchi Mitsubishi	"2-5-2, Marunouchi, Mitsubishi Bldg."	Chiyoda	13	JP	100-0005	35.69392395	139.7537231
+3896	Meidaimae	"Ryu's Bldg., 2-46-5, Matsubara"	Setagaya	13	JP	156-0043	35.64653778	139.6532288
+3897	Azubu Juban	"1-11-14, Azabu Juban, SBS Bldg."	Minato	13	JP	106-0045	35.65801239	139.7515564
+3899	Iidabashi Karukozaka	"2-1, Ageba-cho, Karukozaka MN Bldg."	Shinjuku	13	JP	162-0824	35.69379425	139.7034454
+3900	Aoyama Gaien Nishi-dori	"3-2-2, Kita-Aoyama, AY Bldg."	Minato	13	JP	107-0061	35.65801239	139.7515564
+3901	Sangenjaya	"4-20-25, Taishi-do"	Setagaya	13	JP	154-0004	35.64653778	139.6532288
+3902	Ichigaya Station	"2, Goban-cho, Ichigaya Store"	Chiyoda	13	JP	102-0076	35.69392395	139.7537231
+3904	Shibuya Mark City	"Shibuya Mark City, 1-12-3, Dogenzaka,"	Shibuya	13	JP	150-0043	35.66392899	139.6980591
+3905	Shinjuku Mine Tower	"2-1-1, Yoyogi, Shinjuku Mines Tower"	Shibuya	13	JP	151-0053	35.66392899	139.6980591
+3906	AEON Itabashi	"2-6-1, Tokumaru, Itabashi SATY"	Itabashi	13	JP	175-0083	35.75120926	139.7092438
+3907	Akasaka Long Beach	"3-21-20, Akasaka,, Akasaka Long Beach Bldg."	Minato	13	JP	107-0052	35.65801239	139.7515564
+3908	Shiodome City Center	"1-5, Higashi-Shibangashi,"	Minato	13	JP		35.65801239	139.7515564
+3910	Otemachi Shin-Tokyo Sankei Bldg.	"1-7-2, Otemachi,"	Chiyoda	13	JP		35.69392395	139.7537231
+3911	LUMINE Shinjyuku	"1-1-5, Nishi-Shinjyuku,"	Shinjuku	13	JP	160-0023	35.69379425	139.7034454
+3912	Hachioji Tokyu Square	"9, Asahimachi"	Hachioji	13	JP		35.66644669	139.3160858
+3913	Marunouchi Maru Bldg.	"2-4-1, Marunouchi,"	Chiyoda	13	JP	100-6509	35.69392395	139.7537231
+3914	Nishi Gotanda	"Prima Gotanda Bldg., 1-18-1, Nishi Gotanda, Prima Gotanda Bldg."	Shinagawa	13	JP	141-0031	35.60915756	139.7301636
+3916	Awaji-cho Ekinae	"1-2, Awaji-cho Kanda, Crystal Bldg."	Chiyoda	13	JP	101-0063	35.69392395	139.7537231
+3917	Suidobashi Koraku Mori Bldg.	"1-Chome, Koraku"	Bunkyo	13	JP	655-0036	35.7075882	139.7522125
+3918	Himonya Daiei	"4-1-1, Himonya"	Meguro	13	JP		35.64148331	139.698288
+3919	Tachikawa Isetan	"2-5-1, Akebono-cho,, ISETAN Tachikawa"	Tachikawa	13	JP		35.7141037	139.4078217
+3920	EST Shinjuku Bldg.	"2-13-8, Yoyogi,"	Shibuya	13	JP		35.66392899	139.6980591
+3921	Hibiya City	"2-2-3, Uchisaiwai-cho, B1, Hibiya Kokusai Bldg."	Chiyoda	13	JP	100-0011	35.69392395	139.7537231
+3922	Ark Hills	"1-12-32 Akasaka, Ark Mori Bldg., 1F"	Minato	13	JP	107-6090	35.66724014	139.7400055
+3924	Ningyocho	"3-6-7, Nihonbashi-ningyo-cho, Ningyo-cho Kyodo Bldg., 1F"	Chuo	13	JP	103-0013	35.67056656	139.7720032
+3925	Shimokitazawa	"Gakugei  Shimokitazawa UC Bldg., 1F, 2-30-6, Kitazawa"	Setagaya	13	JP	155-0031	35.64653778	139.6532288
+3926	Hongo Todai-Mae	"Cosmos Hongo, 1F, 4-1-4, Hongo,"	Bunkyo	13	JP	113-0033	35.7075882	139.7522125
+3927	Inokashira Park	"1-15-7, Minami-machi, Kichijoji,, Kichijoji Shigekawa Bldg."	Musashino	13	JP	180-0003	35.71769333	139.56604
+3928	Toranomon Unpin Building	"1-1-23, Toranomon, Unpin Toranomon Bldg."	Minato	13	JP	105-0001	35.65801239	139.7515564
+3930	Uchisaiwaicho Yamoto Seimei Bldg.	"1-1-7, Uchisaiwai-cho, Yamato Seimei Bldg."	Chiyoda	13	JP	100-0011	35.69392395	139.7537231
+3931	Shiroyama Garden	"Shiroyama JT Mori Bldg., 4-3-1, Toranomon"	Minato	13	JP	105-6001	35.65801239	139.7515564
+3932	Atre Ueno	"7-1, Ueno,"	Taito	13	JP		35.71258926	139.7799988
+3933	The mall Mizuho	"Takane, Oaza,"	Mizuho	13	JP		35.77203751	139.3538513
+3934	FOUR SEEDS Tameike Sanno Bldg	"2-10-11, Akasaka,"	Minato	13	JP		35.65801239	139.7515564
+3935	Marunouchi Shin-Tokyo Bldg.	"3-3-1 Marunouchi,"	Chiyoda	13	JP	100-0005	35.67740631	139.7629547
+3936	Kanda Eki-mae	"3-2 Kanda Kaji-cho,"	Chiyoda	13	JP		35.69337463	139.771225
+3938	Oji Kyotoku Bldg.	"1-9-5, Oji,, Keitoku Bldg."	Kita	13	JP		35.75283432	139.7335205
+3939	Omotesando B-SIDE	"5-11, Jingumae,, B-side Bldg"	Shibuya	13	JP		35.66392899	139.6980591
+3940	Akasaka Tameike Tower	"2-17-1, Akasaka,, Akasaka Tameike Tower"	Minato	13	JP		35.65801239	139.7515564
+3942	Kakimi Kojimachi	"Kakimi Kojimachi Bldg. Annex, 3-2-5, Kojimachi"	Chiyoda	13	JP	102-0083	35.69392395	139.7537231
+3944	Gakugeidaigaku-eki mae	"Toriyoshi Bldg., 3-15-25, Takaban"	Meguro	13	JP	152-0004	35.64148331	139.698288
+3945	Nishi Shinjuku Mitsui Building	"6-24-1, Nishi-Shinjuku, Mitsui Bldg."	Shinjuku	13	JP	160-0023	35.69379425	139.7034454
+3948	Otemachi KDD Bldg.	"1-8-1, Otemachi, KDD Otemachi Bldg."	Chiyoda	13	JP	100-0004	35.69392395	139.7537231
+3949	Sengawa Kawahara Bldg.	"1-49-2, Sengawa-cho, Pearl Sengawa"	Chofu	13	JP		35.65062714	139.5408325
+3950	Minami Ikebukuro	"2-16-4, Minami-Ikebukuro,, SK Bldg"	Toshima	13	JP		34.52933121	139.2821045
+3952	Takadadanobaba 108 Bldg.	"Takadanobaba,, 108 Bldg.,1-25-32"	Shinjuku	13	JP		35.71067429	139.7010345
+3953	Otemachi Bldg.	"1-6-1, Otemachi,"	Chiyoda	13	JP	100-0004	35.69392395	139.7537231
+3955	Kunitachi Project	"1-6, Higashi,"	Kunitachi	13	JP		35.68386078	139.4414063
+3956	Shibuya Organ-zaka	"14-14, Udagawa-cho,"	Shibuya	13	JP		35.66392899	139.6980591
+3957	ES - Iidabashi METROPIA	1-13 Kagurazaka	Shinjuku	13	JP	162-0825	35.7010231	139.7426453
+3958	Ikebukuro Sunshine City	"3-1 Shigashi-Ikebukuro,"	Toshima	13	JP		34.52933121	139.2821045
+3962	Ginza Matsuya-Dori	"ESK Bldg., 3-7-14 Ginza"	Chuo	13	JP	104-0061	35.67056656	139.7720032
+3963	Ochanomizu Murata Bldg.	"2-5 Kanda, Surugadai, Murata Building"	Chiyoda	13	JP	101-0062	35.69997787	139.7609711
+3966	Shingawa Intercity Store	"SHINAGAWA INTERCITY 2F, 2-   -2, Kounan,"	Minato	13	JP	108-0075	35.65801239	139.7515564
+3968	Gate City Osaki	"Gate City Osaki, 1-11-1, Osaki,"	Shinagawa	13	JP	141-0032	35.60915756	139.7301636
+3971	Toranomon 2-chome Mori Bldg.	"2-3-17, Toranomon, Toranomon 2-chome Tower"	Minato	13	JP	105-0001	35.65801239	139.7515564
+3972	Shibuya Tsutaya	21-6 Udagawacho	Shibuya	13	JP	150-0042	35.65988159	139.7003174
+3974	Jiyugaoka Eki-mae	"1-11-8, Jiyugaoka,, Maruei Bldg"	Meguro	13	JP	152-0035	35.64148331	139.698288
+3975	Nakano-Dori	"5-64-5, Nakano,"	Nakano	13	JP	164-0001	35.70733643	139.6638031
+3976	Shinjuku Ekure.	"3-11-6, Shinjuku, 1F Shinjuku Ekure"	Shinjuku	13	JP	160-0000	35.69379425	139.7034454
+3977	Jinbo-cho IP21 Bldg.	"1-2-12, Kanda Jinbo-cho,"	Chiyoda	13	JP		35.69392395	139.7537231
+3978	"Yurakucho Bldg.,"	"1-10, Yurakucho,"	Chiyoda	13	JP		35.69392395	139.7537231
+3980	Nakameguro Eki-mae	"3-4, 2-1to 5, Kami-meguro,"	Meguro	13	JP	153-0051	35.64148331	139.698288
+3981	Aomi SUN WALK	"Pallet town, 1, Aomi,"	Koto	13	JP		35.67281723	139.8173065
+3985	Marui Ueno	"6-15-12, Ueno,"	Taito	13	JP		35.71258926	139.7799988
+3986	Nishi-Shinjuku Green Tower Bldg.	"6-14-1 Nishi-Shinjyuku,"	Shinjuku	13	JP		35.69379425	139.7034454
+3987	Nihonbashi Mitsukoshi-mae	"Nihombashi Suruga Bldg., 1-7-1, Muromachi Nihombashi"	Chuo	13	JP	103-0022	35.67056656	139.7720032
+3988	Tsukiji eki-mae	"2-12-8, Tsukiji, Kitsune Bldg."	Chuo	13	JP	104-0045	35.67056656	139.7720032
+3989	Takebashi Palace Side	"1-1-1. Hitotsubashi, Takebashi Palaceside Bldg."	Chiyoda	13	JP	100-0003	35.69392395	139.7537231
+3990	Shibiuya Toho Seimei Bldg.	"Toho Seimei Bldg, Cross Tower 2-15-1, Shibuya"	Shibuya	13	JP	150-0002	35.66392899	139.6980591
+3991	Shibuya 3 chome	"3-11-7, Shibuya, Dai-2 Minegishi Bldg."	Shibuya	13	JP	150-0002	35.66392899	139.6980591
+3992	Kanda Ogawamachi 2-chome	"2-5-5, Kanda Ogawa-machi, Kiyo Tokyo Bldg."	Chiyoda	13	JP	101-0052	35.69392395	139.7537231
+3993	Minami Machida Grandberry Mall	"3-4-1, Tsuruma, Grandberry Mall"	Machida	13	JP	194-8509	35.54661942	139.4387054
+3994	Roppongi Torikaku Building	"7-14-1, Roppongi"	Minato	13	JP		35.65801239	139.7515564
+3995	Shibuya Koen-dori N-2 Bldg. Proje	"1-7-5, Konan,"	Shibuya	13	JP		35.66392899	139.6980591
+3998	Seibu Takadanobaba	"1-35-2, Takadanobaba"	Shinjuku	13	JP	169-0075	35.69379425	139.7034454
+3999	Fululu Garden Yachiyo	Yachiyo-shi	Yachiyo	12	JP		35.73920822	140.1050262
+4000	Chiba-Chuo Eki	"Honchibacho, Chuo-ku,"	Chiba	12	JP		35.60667801	140.1197968
+4002	NRT - Narita Airport 1 Dep Lob	"1-1 Goryobokujo Sanrizuka, Terminal 1, Narita International Airport"	Narita	12	JP	282-0011	35.77332687	140.388092
+4006	NRT - Narita Airport Station	Narita Airport #1 Terminal	Chiba	12	JP		35.77332687	140.388092
+4007	Kashiwa Takashimaya Station Mall	"1-1 Suehirocho, Kashiwa Takashimaya Station Mall S Bldg"	Kashiwa	12	JP	277-0842	35.86220551	139.9703522
+4009	Matsudo Box Hill	"1186,"	Matsudo	12	JP		35.78763962	139.9031982
+4010	LaLaport Tokyo-Bay North	"2-1-1, Hamacho, LaLaport Funabashi Shopping Center"	Funabashi	12	JP	273-0012	35.69454575	139.9824371
+4012	Toride BOX Hill	"2-5,Chuo-machi"	Toride	8	JP		35.91148376	140.0497437
+4013	AEON Nariata Shopping Center	"680, Tsuchiya Yamanosaki,, AEON Narita Shopping Center"	Narita	12	JP	286-0021	35.7767334	140.3189697
+4014	Narita Bon Belta	"2-1-10, Akasaka,"	Narita	12	JP		35.7767334	140.3189697
+4015	Chiba PARCO	"2-2-2, Chuo, Chou-ku"	Chiba	12	JP		35.60747147	140.1066437
+4016	LaLaport Tokyo-Bay South	"2-1-1, Hama-machi,"	Funabashi	12	JP		35.69454575	139.9824371
+4017	Carrefour Makuhari Shopping Mall	"1-3, Hibino, Mihama-ku, Carrefour MAKUHARI"	Chiba	12	JP	261-0022	35.60747147	140.1066437
+4018	NRT - Narita Airport Terminal	"Shin-Tokyo International Airport,"	Narita	12	JP		35.77332687	140.388092
+4019	Tsudanuma PARCO	"2-18-1, Maebaranishi,"	Funabashi	12	JP	274-0825	35.69454575	139.9824371
+4020	Chiba Aurora Mall Junnu	"1001, shinmachi, Chuo-ku"	Chiba	12	JP		35.60747147	140.1066437
+4021	Musashikosugi Tokyo Mitsubishi Bank	"1-403, Kosugi-cho, Nakahara-ku,"	Kawasaki	14	JP		35.53087616	139.7030029
+4022	Hashimoto VIVRE	"6-2-1, Hashimoto,, Hashimoto VIVRE"	Sagamihara	14	JP	229-1103	35.57143021	139.3730011
+4023	Kamakura	"2, Komachi"	Kamakura	14	JP		35.31919098	139.5467834
+4025	Kawasaki Okadaya	"Okadaya Mores, 7, Ekimae-Honcho,"	Kawasaki	14	JP	210-0007	35.53087616	139.7030029
+4026	KAWASAKI LA CITTADELLA	"Ogawa-cho, Kawasaki-ku"	Kawasaki	14	JP		35.52703476	139.6972198
+4027	Kawasaki Marui	Kawasaki-shi	Kawasaki	14	JP		35.56995773	139.62854
+4028	Wing Kamiooka	"1, Kamioka-Nishi, Konann-ku, 2F, Wing Kamioka"	Yokohama	14	JP		35.44412231	139.6380768
+4029	Yokohama Kitasaiwai	"2-6-1, Kita-Saiwai, Nishi-ku,, Nisso the 2nd Bldg.,"	Yokohama	14	JP		35.44412231	139.6380768
+4030	Yokohama Landmark Plaza	"2-2-1-2 Minatomirai, Nishi-ku,, Yokohama Land Mark Plaza"	Yokohama	14	JP	220-8190	35.44412231	139.6380768
+4032	Yokohama China Town	"East Haim 79-1, Yamashita-cho"	Yokohama	14	JP		35.44412231	139.6380768
+4033	Yokohama	"2-3-9 Minatomirai Nishi-ku, Shibuya-ku"	Yokohama	14	JP	220-0012	35.44412231	139.6380768
+4034	Yokohama Bayside Marina	"4-2, Shiraho, Kanazawa-ku,, Yokohama Bayside Marina"	Yokohama	14	JP	236-0007	35.44412231	139.6380768
+4035	Yokohama OKADAYA MORE'S	"1-3-1, Minami-Saiwai, Nishi-ku,, Yokohama Okadaya MORE'S"	Yokohama	14	JP	220-0005	35.44412231	139.6380768
+4036	Shonandai Station Bldg.	"Odakyu Marche Shonandai 2, 2-15,, Shonadai"	Fujisawa	14	JP	252-0804	35.33896637	139.4911346
+4037	Ito Yokado Fujisawa Ishikawa	"6-2-1, Ishikawa,"	Fujisawa	14	JP		35.33896637	139.4911346
+4039	Odakyu Ebina Project	1-4-1 Chuo	Ebina	14	JP	243-0832	35.45198441	139.3925934
+4040	LUMINE Fujisawa	"438-1 Fujisawa,"	Fujisawa	14	JP		35.33908844	139.4870148
+4044	Totsuka MARUI	"10, Totsuka-cho, Totsuka-ku"	Yokohama	14	JP		35.44412231	139.6380768
+4045	Sagamiono REGARO	"3-61-1, Sagamiono"	Sagamihara	14	JP		35.57143021	139.3730011
+4046	AEON Yamato	"1, Higashi-Tsuruma,"	Yamato	14	JP		35.48749542	139.4579926
+4047	Yokohama Park	"17-3, 1-chome, Aioi Seimei Bldg"	Yokohama	14	JP		35.44412231	139.6380768
+4048	Shin-Yokohama	"2-5-1, Shin-Yokohama, Kohoku-ku, Nisso the 13th Bldg.,"	Yokohama	14	JP	222-0033	35.44412231	139.6380768
+4049	Chigasaki Suruga Bldg.	2-3 Motomachi	Chigasaki	14	JP		35.33119202	139.4067078
+4050	LUMINE Ofuna	"1-4-1, Ofuna,"	Kamakura	14	JP		35.31919098	139.5467834
+4051	Yokohama Shinsei Bank	"1-9-13, Nankou, Nishi-ku,"	Yokohama	14	JP		35.44412231	139.6380768
+4052	Yokosuka Okadaya MORE's	"2-30, Wakamatsu-cho,"	Yokosuka	14	JP		35.2812233	139.6721802
+4053	Hiratsuka Laska	"1-1 Takaramachi,"	Hiratsuka	14	JP		35.33549118	139.3496246
+4054	Kannai Bashamichi	"4-45, Tokiwa-machi, Naka-ku"	Yokohama	14	JP	231-0014	35.44412231	139.6380768
+4055	Odawara Daido Plaza 2	"208, Nakazato"	Odawara	14	JP		35.26460648	139.1522217
+4056	Center Minami Palace Pot	14 Chigasakichuo Tsuzuki-ku	Yokohama	14	JP	224-0032	35.44412231	139.6380768
+4057	Hiyoshi Yamamura Bldg.	"2-2-3, Hiyoshi, Kohoku-ku"	Yokohama	14	JP		35.44412231	139.6380768
+4058	Shin-Yokohama Yusen Bldg.	"3-17-2, Shin Yokohama, Kohoku-ku"	Yokohama	14	JP		35.44412231	139.6380768
+4060	Higashi Totsuka Aurora City	"537-1, Shinano-machi, tosuka-ku, Aurora City #34"	Yokohama	14	JP	224-8534	35.44412231	139.6380768
+4061	Aobadai Tokyu Shopping Center	"2-1-1, Aobadai, Aoba-ku,, Aobadai Tokyu Square South 1"	Yokohama	14	JP		35.44412231	139.6380768
+4063	Sakuragi-cho MM21-26 Comm. Area	"1-1-67, Sakuragi-cho, Naka-ku, CROSS GATE"	Yokohama	14	JP		35.44412231	139.6380768
+4064	The Mall Kasugai	"22, Higashioka, Rokkenya-cho"	Kasugai	23	JP		35.24754715	136.9721832
+4065	Mei Station Uni Mall	"4-5-26, Mei eki, Nakamura-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4066	Matsuzakaya Toyota	"6-85-1, Nishimachi"	Toyota	23	JP		35.0825119	137.1562805
+4067	AEON Higashiura Shopping Center	"67, Higashiura-cho, Chikita-gun"	Higashiura	23	JP	470-2100	34.977108	136.9655457
+4068	Nagoya Apita Nagakute	"901-1, Todaya, Nagakute-cho, Aichi-gun, APITA Nagakute"	Nagoya	23	JP		35.18141556	136.9066925
+4069	Mitsui Sumitomo bank Nagoya bldg.	"2-18-19 Nishiki, Naka-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4071	Shinsakae Aoi-cho Building	"1-21-2, Aoicho, Higashi-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4072	Sakae Hirokoji	"3-24-22, Nishiki, Naka-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4073	Kakuozan Eki-mae	"2-65, Sanmon-cho, Chigusa-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4074	Sakae Cherry Plaza	"3, Sakae, Naka-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4075	Apita Chiryu	18-1 Oyama Nagashinocho	Chiryu	23	JP		34.99782944	137.0530243
+4077	Nagoya Chikagai Sun Road	"1 Meieki -Kita, Naka-ku,"	Nagoya	23	JP		35.18141556	136.9066925
+4078	Sakae Park	"1-chome, Touou, Higashi-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4079	Kanayama Eki Minamiguchi	"1-213, Kanayama-cho, Atsuta-ku, Kanayama Yagami Bldg"	Nagoya	23	JP		35.18141556	136.9066925
+4080	Sakura-dori Otsu	"3-20-17, Marunouchi, Naka-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4081	Nagoya Gingu-mae Station	"3-6-34, Jingu, Atsuta-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4082	Nagoya Sakae Tokyo Inn	"3-1-8, Sakae, Naka-ku"	Nagoya	23	JP		35.18141556	136.9066925
+4083	Nagoya AEON Shopping Center	"38-5, Azatoyama, Tosaki-cho, AEON Okazaki Shopping Center"	Okazaki	23	JP		34.95484161	137.1730804
+4085	Otsu PARCO	"14-30, Unhidehama, Otsu-shi"	Shiga	25	JP		35.00453186	135.8685913
+4095	Mito Kencho-mae	978-38 Kasahara-machi	Mito	8	JP	310-0852	36.36585999	140.4712372
+4130	SEIYU Rakuichi Mariya	"4, Keyakidai"	Moriya	8	JP		35.95142365	139.9754944
+4136	Kumamoto Hikarinomori Road Side	3-22-2 Hikarinomori Kikuyo-cho	Kikuchi	43	JP	869-1108	32.97952271	130.8132172
+4141	Hisai Intergarden	"2533, Kazahaya, Myojincho"	Hisai	24	JP	514-1101	34.69112015	136.4705505
+4142	Niigata Shickuyama	5-2-19 Shickuyama Chuo-ku	Niigata	15	JP	950-0914	37.9161911	139.0363617
+4149	TX Tsukuba Station	2-128 Azuma	Tsukuba	8	JP	305-0031	36.08253098	140.1088409
+4086	Kusatsu A Squre	"1-23-1, Nishi Shibukawa, Kusatsu-shi"	Shiga	25	JP		35.02448654	135.9593353
+4087	JR Nagoya Central Towers	"1-1-4, Meieki, Nakamura-ku, Nagoya-shi,, Aichi, JR Central Towers 13F"	Nagoya	23	JP	450-6013	35.18141556	136.9066925
+4088	Niigata LAFORET	"Next 21, 6-866, Nishbori"	Niigata	15	JP		37.9161911	139.0363617
+4089	Niigata Bandai City- Remodel	"1-6-1, Banda"	Niigata	15	JP		37.9161911	139.0363617
+4092	Koriyama Station Nishiguchi	"2 chome, Koriyama-shi Ekimae"	Fukushima	7	JP		37.76081085	140.474762
+4093	AEON MALL Kashihara	"7-20-1, Magarikawacho, Kashihara"	Nara	29	JP	634-0837	34.6850853	135.8048401
+4094	Tobu Shin-koshigaya Eki	"1-11-4, Minamikoshigaya, Koshigaya"	Saitama	11	JP	343-0845	35.86162186	139.6455536
+4096	Mallage Kashiwa	"2-5-3, Oyamadai,"	Kashiwa	12	JP	277-0837	35.86759949	139.9757996
+4100	Asagaya Station	"Asagaya,"	Suginami	13	JP		35.7054863	139.6347961
+4102	Kitaykusyu AEON Wakamatsu SC	"1-2-1,Ftajima, Wakamatsu-ku, Kitakyusyu-"	Fukuoka	40	JP		33.59009171	130.4016876
+4104	Sannomiya Sharuman Bldg	"2-1-13, Yamatedo-ri, Chuo-ku"	Hyogo	28	JP		34.68057632	135.1652985
+4105	You Me Town Omuta	"2-28, Asahi-machi"	Fukuoka	40	JP		33.59009171	130.4016876
+4108	Sapporo Stellar Place	"Nishi 3-chome, Kita 5-jo, Chuo-ku"	Sapporo	1	JP		43.06203079	141.3543854
+4110	"Kokura T Bldg.,"	"2-284-1, Kyomachi, Kokurakita-ku, Kitakyusyu-shi"	Fukuoka	40	JP		33.59009171	130.4016876
+4111	Izm Hamamatsu	"140, Kajicho, Hamamatsu-shi"	Shizuoka	22	JP		34.97515106	138.383255
+4112	Sano Premium Outlets	68 Sanoshintoshi	Sano	9	JP	357-0822	36.30877304	139.5931091
+4113	Hanshin Nishinomiya Station	"1-16, Tanakamachi, Nishinomiya-shi"	Hyogo	28	JP		34.68057632	135.1652985
+4115	AEON Tomiya	1-33-1 Oshimizu	Tomiya	4	JP	981-3329	38.36467361	140.8751068
+4116	Hoshigaoka Terrace	"14-25 Hoshigaoka Motomachi, Chikusa-ku"	Nagoya	23	JP	464-0802	35.16042328	136.9851837
+4117	AEON Futtsu	Futtsu-shi	Futtsu	12	JP		35.22595978	139.9005432
+4119	Hortarugaike Luciole	"560-0033 3, Hotaruike Nakamachi"	Osaka	27	JP		34.69372177	135.5021667
+4120	lidabashi JR Kamotsu	"3-10, Iidabashi,"	Chiyoda	13	JP		35.69392395	139.7537231
+4121	Chiba 1000 City Bldg	"1000, Shinmachi, Chuo-ku"	Chiba	12	JP	260-0028	35.60747147	140.1066437
+4122	Kawaguchi Matsumaru Bldg	"3-13-3, Sakaecho, Kawaguchi-shi"	Saitama	11	JP		35.86162186	139.6455536
+4123	Matsuyama Iyotetsu Kaikan	"3-1-1, Daikaido"	Matsuyama	38	JP		33.83916855	132.7656097
+4124	Asaka Eki-mae	"2, Honcho, Asaka-shi"	Saitama	11	JP		35.86162186	139.6455536
+4125	RIVERWALK Kitakyushu DECO CITY	"1, Muromahci,, Kokura Kita-ku"	Kitakyushu	40	JP	803-0812	33.88328934	130.8751831
+4126	Roppongi Hills Metro	"6-4-1 Roppongi, Metro Hat/Hollywood Plaza"	Minato	13	JP	106-0032	35.66133881	139.7301483
+4127	Roppongi Hills West Walk	6-10-1 Roppongi	Minato	13	JP	106-0032	35.66042709	139.7292633
+4129	AEON MALL Sanoshintoshi	Sano-shi	Sano	9	JP		36.42405701	139.5357819
+4131	Niigata Apita	Koshin	Niigata	15	JP		37.86699295	138.9963989
+4132	Kitasenri SATY	"4-119, Furuedai"	Suita	27	JP		34.75943756	135.516861
+4133	Seibu Shinjuku PePe	"1-30-1, Kabukicho,"	Shinjuku	13	JP		35.69379425	139.7034454
+4134	TG - Shibuya Fire Street	"1-12-10, Jinnan,"	Shibuya	13	JP		35.66392899	139.6980591
+4135	Tokyo Dome City Laqua	"1-1-1, Kasuga"	Bunkyo	13	JP	112-0003	35.7075882	139.7522125
+4137	AEON MALL SakaiKitahanada Prou	4-1-12 Higashiasakayamacho Kita-ku	Sakai	27	JP	591-8008	34.57329178	135.4829865
+4140	Akishima Mori Town	"562-1, Tanakacho,"	Akishima	13	JP	196-0014	35.70569229	139.3536377
+4143	Tsutaya Joyful Town Tosu	537-1 Hondosumachi Tosu	Saga	41	JP	841-0026	33.26345444	130.3008575
+4144	Akasaka Prudential Tower	2-13-10 Nagatacho	Chiyoda	13	JP	100-0014	35.67565536	139.7387848
+4145	Miki SA Down Lane	1142 Yutani Kasa Miki	Osaka	27	JP	673-0402	34.69372177	135.5021667
+4146	Kofu Yamako Department Store	1-3-3 Marunouchi Kofu	Yamanashi	19	JP	400-0031	35.69331741	138.6873016
+4147	You Me Town Hiroshima	2-224-7 Minamimachi Minami-ku	Hiroshima	34	JP	734-0007	34.38523865	132.4553528
+4148	Sannomiya Isogami - dori	7-1-19 Isogami-dori Chuo-ku	Kobe	28	JP	651-0086	34.68941116	135.195755
+4154	Takasaki Kaizawa	1327-3 Kaizawamachi	Takasaki	10	JP	370-0042	36.33930969	139.0274048
+4157	Basia Sakura	"10-1 Terasaki Tokutiitochikukaku, -seirijigyo"	Sakura	12	JP	285-0818	35.723629	140.2239532
+4169	Okinawa Yomitanson	639-1 Furugen Yomitanson	Okinawa	47	JP	904-0314	26.33429146	127.8056107
+4176	Tsuchiura	19-17 Manabeshinmachi	Tsuchiura	8	JP		36.07185745	140.196106
+4187	Okazaki Talsumi	2-9 13 Talsuminishi	Okazaki	23	JP	446-0026	34.95484161	137.1730804
+4189	Tachikawa Wakaba	1-11-7 Wakabacho	Tachikawa	13	JP	190-0001	35.72025681	139.4367676
+4196	Kurashiki Nakashima	"2236-102, Nakashima, Kurashiki"	Okayama	33	JP		34.65514374	133.9197083
+4199	DT - Oyumino	"4, Oyumino, Midori-ku"	Chiba	12	JP	266-0033	35.60747147	140.1066437
+4200	DT - Mino Onahara	1 Onoharanishi	Minoh	27	JP	562-0032	34.83480072	135.5127869
+4150	L TSUTAYA Matsumoto Shonai	"1, Degawa"	Matsumoto	20	JP		36.23805618	137.9720154
+4151	AEON Odaka Orange Court	1-1 Okuhirako Odakacho Midori-ku	Nagoya	23	JP	459-8001	35.18141556	136.9066925
+4152	TSUTAYA Matsumoto Higashi	"1-2, Motomachi, Matsumoto"	Nagano	20	JP		36.64858246	138.1942139
+4153	Akita University Hospital	44-2 Hiromae	Akita	5	JP	010-8543	39.71982956	140.1023102
+4155	Chiba Cancer Center	666-2 Nitonacho Chuo-ku	Chiba	12	JP	260-8717	35.60747147	140.1066437
+4156	Maihama Ikuspiari	1-4 Maihama	Urayasu	12	JP	279-8529	35.63444138	139.8856812
+4159	Tokyo Dome City Meets Port	1-3-61 Koraku	Bunkyo	13	JP	112-8575	35.70560837	139.7518158
+4160	Akasaka Biz Tower	5-3-1 Akaska	Minato	13	JP	107-6302	35.65801239	139.7515564
+4161	Cubic Plaza Shin-Yokohama	"2-100-45 Shinyokohama, Kohoku-ku"	Yokohama	14	JP	222-0000	35.44412231	139.6380768
+4162	AEON Odaka	1-1 Okuhirako Odakacho Midori-ku	Nagoya	23	JP	459-8001	35.18141556	136.9066925
+4163	Nagoya Osu	3-31-14 Osu Naka-ku	Nagoya	23	JP	460-0011	35.18141556	136.9066925
+4165	Ario Otori	3-199-12 Otoriminamimachi Nishi-ku	Sakai	27	JP		34.57329178	135.4829865
+4166	Tsukuba University-Central Library	1-1-1 Tennodai	Tsukuba	8	JP	305-8677	36.11045456	140.1009064
+4167	Hanshin Mikage Classe	3-2-1 Mikagenakamachi Higashinada-ku	Kobe	28	JP	658-0054	34.68941116	135.195755
+4168	Kurashiki Tenmaya	1-7-1 Achi	Kurashiki	33	JP	710-0055	34.60184479	133.766983
+4170	Sapporo PARCO - Reloc	"3Nishi, Minami 1-jo, Chuo-ku, B1F & 1st Floor"	Sapporo	1	JP	060-0061	43.06203079	141.3543854
+4172	Nanjo Service Area (Up Lane)	Minami Echizen-cho	Fukui	18	JP	919-0200	36.06407166	136.219635
+4173	Kurosaki Service Area (Down lane)	"5538-4, Kiba, Nishi-ku"	Niigata	15	JP	950-1122	37.9161911	139.0363617
+4174	Sapporo Maruyama Park	Nishi Minami 1 jo Nishi 27-chome	Sapporo	1	JP	064-0801	43.06203079	141.3543854
+4175	Taga Service Area (Up Lane)	62-2 Taga-cho Inuyama	Shiga	25	JP	522-0300	35.00453186	135.8685913
+4177	Miyajima SA (Down Lane)	"1, Hatsu"	Hatsukaichi	34	JP	738-0001	34.34863281	132.3313904
+4178	Kamiotai mozo wondercity	"40, Futakatacho, Nishi-ku"	Nagoya	23	JP	452-0817	35.18141556	136.9066925
+4179	Leaf Walk Inazawa	1 Inazawacho	Inazawa	23	JP	492-8217	35.24863052	136.7892609
+4180	Gokiso Eki-mae	"4-2-1, Ayuchi-dori, Showa-ku"	Nagoya	23	JP	466-0027	35.18141556	136.9066925
+4181	Kobe Kitano Ijinkan	"3-1-31, Chuo-ku"	Kobe	28	JP	650-0001	34.68941116	135.195755
+4182	Marunouchi Park Bldg	2-6-1 Marunouchi	Chiyoda	13	JP	100-0005	35.67876053	139.763031
+4183	Suwako Service Area (Down Lane)	Minato	Okaya	20	JP	394-0044	36.03735352	138.0601959
+4184	LAZA Walk Kai Futaba	Shida	Kai	19	JP	400-1126	35.68892288	138.4846344
+4185	Chiba Wakaba	"1-1, Wakamatsucho, Wakaba-ku"	Chiba	12	JP	264-0021	35.60747147	140.1066437
+4186	JR Tokai Shinagawa Eki Rachinai -LS	"2-1-78, Konan, JR Tokai Shinagawa Eki Rachinai Station"	Minato	13	JP	108-0075	35.65801239	139.7515564
+4188	Kyoto Nishiki Koji	"651 Mototakedacho, Nakagyo-ku"	Kyoto	26	JP	604-8145	35.01169205	135.7681732
+4190	Kyoto Karasuma Rokkaku	254 Donomaecho Rokkakudori-Higashinotoi	Kyoto	26	JP		35.01169205	135.7681732
+4192	Tsukuba University Hospital	2-1-1 Amakubo	Tsukuba	8	JP		36.09229279	140.1007385
+4193	Kitasenju LUMINE	"42-2 Senjuasahicho,"	Adachi	13	JP		35.74989319	139.805542
+4194	Remy Gotanda	2-1-2 Higashigotanda	Shinagawa	13	JP	141-0022	35.62556839	139.7245483
+4195	TSUTAYA Korien	31-17 Korishinmachi	Neyagawa	27	JP		34.76610565	135.6279907
+4197	Tsutaya Ehime Masaki	"850, Tsutsui, Masaki-cho, Iyo-gun"	Masaki	38	JP		33.78739548	132.7113953
+4198	Nagasaki Airport Dept. Terminal	593 Mishimamachi	Omura City	42	JP		32.91489029	129.9216766
+4201	Owari Ichinomiya PA (Up Lane)	"3-2, Sakae"	Ichinomiya	23	JP	491-0858	35.3040657	136.8025818
+4202	Owari Ichinomiya PA (Down Lane)	"6-1, Suehiro"	Ichinomiya	23	JP	491-0918	35.3040657	136.8025818
+4203	Kiyama Parking Area (Up Lane)	Kokura Kiyama-cho	Saga	41	JP	841-0201	33.26345444	130.3008575
+4209	Nara Nishiyamato New Town	"476-4 Kusurii, Kitakatsuragi-gun"	Kawai	29	JP	636-0082	34.5784874	135.7366791
+4222	Tsukuba Kenkyugakuen	110 Gaiku 7 Gakuenminami	Tsukuba	8	JP		36.08347702	140.0764618
+4227	Chiba Mihama	2-8 Saiwaicho Mihama-ku	Chiba	12	JP	261-0001	35.60747147	140.1066437
+4231	Nagasaki Omura	25-32 Saiwaimachi Omura	Nagasaki	42	JP	856-0836	32.75033188	129.8777161
+4232	Kuwana Sanshi Mall Park	111-1 Onakasinden Kuwana	Aichi	23	JP	511-0947	35.08056641	136.606781
+4242	Fukuoka Jiromaru	2-10-10 Jiromaru Sawara-ku Fukuoka	Fukuoka	40	JP	814-0165	33.59009171	130.4016876
+4243	Nishinomiya Kurakake	6-7 Kurakakecho Nishinomiya	Nishinomiya	28	JP	662-0926	34.73760223	135.3417358
+4246	Okinawa Kokutai-doro	813-2 Kamiseido	Chatan	47	JP	904-0101	26.32841873	127.7707672
+4250	CAINZ HOME Maebashi Yoshioka	"821, Okubo"	Yoshioka	10	JP	370-3602	36.44737244	139.0099335
+4204	Koshigaya AEON Lake Town mori Garde	"2-8 Azumacho, Koshigaya Lake Town Mall"	Koshigaya	11	JP	343-0826	35.8821907	139.8289337
+4205	Koshigaya AEON Lake Town mori 1F	"2-8 Azumacho, Koshigaya Lake Town Mall"	Koshigaya	11	JP	343-0826	35.8821907	139.8289337
+4206	Koshigaya AEON Lake Town kaze	"4-21-1 Azumacho, Koshigaya Lake Town Mall"	Koshigaya	11	JP	343-0826	35.87765884	139.8251801
+4207	Koshigaya AEON Lake Town mori 3F	"2-8 Azumacho, Koshigaya Lake Town Mall"	Koshigaya	11	JP	343-0826	35.8821907	139.8289337
+4208	Crysta Nagahori	4 Minamisenaba Chuo-ku	Osaka	27	JP	542-0081	34.69372177	135.5021667
+4210	AEON MALL Tsuchiura	"376, Kamitakatsu"	Tsuchiura	8	JP	300-0811	36.07185745	140.196106
+4211	Hitachino Ushiku	"36, Hokubu-tochiseiri"	Ushiku	8	JP	300-1207	35.97937012	140.1495361
+4212	Shinjuku Marui - 8F	3-30 Shinjuku	Shinjuku	13	JP	160-0022	35.69094849	139.7040863
+4213	Shinjuku Marui - 2F	"3-30 Shinjuku, 2nd Floor"	Shinjuku	13	JP	160-0022	35.69094849	139.7040863
+4214	AEON Mall Hiroshima Gion	"3-540-1 Gion, Asanan-ku"	Hiroshima	34	JP	731-0138	34.38523865	132.4553528
+4215	Miki Service Area Up Lane	Omura	Miki	28	JP	673-0404	34.80761337	134.9651642
+4216	Jichi Medical University Hospital	3311-1 Yakushiji Shimotsuke	Tochigi	9	JP		36.3824501	139.7341003
+4217	JR Nagoya Station Hirokojiguchi	"1-1-4, Meieki, Naka-ku"	Nagoya	23	JP	460-0001	35.18141556	136.9066925
+4218	Kinryu SA (Down Lane)	"1, Saga"	Saga	41	JP	849-0202	33.26345444	130.3008575
+4220	Onoda Sun Park	6-4-1 Nakagawa Sanyoonoda	Yamaguchi	35	JP		34.1785202	131.4738007
+4221	Yodoyabashi odona	"4-1-1 Imabashi, Chuo-ku"	Osaka	27	JP		34.69372177	135.5021667
+4223	JR Tokyo Station Yaesu Kitaguchi	1 Marunouchi	Chiyoda	13	JP	100-0001	35.6835289	139.7651367
+4224	Yebisu Garden Place	"4-20-3, Ebisu,"	Shibuya	13	JP	150-6003	35.66392899	139.6980591
+4226	LaLaPort Iwata	1200 Takamigaoka	Iwata	22	JP	438-0801	34.75031662	137.8408508
+4228	Meiji Jingu-mae Metropia	1-18-22 Jingumae	Shibuya	13	JP		35.66999054	139.7026367
+4229	Tsutaya Tokyo Roppongi	"6-chome, Roppongi"	Minato	13	JP		35.65801239	139.7515564
+4230	Azusagawa Service Area Up Lane	Toyoshinatakibe	Azumino	20	JP	399-8204	36.28154755	137.9327698
+4233	Mr Max Shonan Fujisawa Shopping Cen	4-3-5 Tsujidoshinmachi	Fujisawa	14	JP	251-0042	35.33896637	139.4911346
+4235	Kagawa University Hospital	1750-1 Ikenobe Miki-cho	Kagawa	37	JP	761-0793	34.29244995	134.1236877
+4237	Sakae Lachic	3-6-1 Sakae Naka-ku Nagoya	Nagoya	23	JP	460-0008	35.18141556	136.9066925
+4238	OKA - Naha Airport North Wing	150 Kagamizu Naha	Okinawa	47	JP	901-0142	26.2062645	127.6507568
+4239	Shizuoka ASTY	47 Kuroganecho Shizuoka	Shizuoka	22	JP	420-0851	34.97515106	138.383255
+4241	Jikei University Hospital	3-19-18 nishishinbashi	Minato	13	JP	105-8471	35.65801239	139.7515564
+4244	AEON Moriokaminami	10-1 Inari Motomiya Morioka	Morioka	3	JP	020-0866	39.70205688	141.1544342
+4245	Nissan Technical Center D Building	560-2 Okatsukoku	Atsugi	14	JP	243-0192	35.42308044	139.3165894
+4247	KUZUHA MALL	"15-1-112, Hanazonocho, Kuzuha"	Hirakata	27	JP	573-1121	34.81443024	135.6508026
+4248	AEON Yachiyo Midorigaoka	"2-1-3, Midorigaoka,"	Yachiyo	12	JP	276-0049	35.7224617	140.0997162
+4249	Sun Live City Kokura	"2-14-101, Kamikuzuhara, Kokuraminami-ku"	Fukuoka	40	JP	800-0255	33.59009171	130.4016876
+4251	Yotsukaido Ito Yokado	"Dai5-gaiku, Yotsukaidotoshikakuhoku-toch"	Yotsukaido	12	JP	284-0003	35.66974258	140.1679382
+4252	Haneda Airport North Pier Gate	"3-4-2, Haneda Airport"	Ota	13	JP	144--0041	35.54814911	139.7863464
+4253	AEON Nogata Shopping Center	"1715-1, Yunoura, Ganda, Nogata"	Fukuoka	40	JP	822-0001	33.59009171	130.4016876
+4254	AEON Shibata	"5-11-5, Sumiyoshicho"	Shibata	15	JP	957-0061	37.95087433	139.3278961
+4255	Abeno Hoop	"1-2-30, Abenosuji, Abeno-ku"	Osaka	27	JP	545-0052	34.69372177	135.5021667
+4260	APITA Toyota-motomachi	"1-21, Tsuchihashicho"	Toyota	23	JP	471-0842	35.0825119	137.1562805
+4270	Namagawa Shinrin Mall	2806-1 Haneo	Namegawa	11	JP	355-0811	36.05858231	139.3705597
+4272	Cainz Mall Hikone	2-1-1 Banba Hikone	Shiga	25	JP	522-0029	35.27949524	136.2428131
+4276	Nishiakashi	1-2 Meinancho Akashi	Akashi	28	JP	673-0001	34.64310837	134.9974976
+4277	Nisshin Aichi Takenoyama	37-174 Takenoyama iwasakicho	Nisshin	23	JP	470-0131	35.13198471	137.0394592
+4283	Box Town Hakozaki	"4-6-20, Hakozaki, Higashi-ku"	Fukuoka	40	JP	812-0053	33.59009171	130.4016876
+4285	Kusatsu Kokudo Route 1	1-20-20 Kusatsu Kusatsu	Kusatsu	25	JP	525-0034	35.01314163	135.9599609
+4256	APITA Kozoji	"2-5, Chuodai"	Kasugai	23	JP	487-0011	35.24754715	136.9721832
+4257	Ario Soga	"1-2-30, Abenosuji, Abeno-ku"	Chiba	12	JP	545-0052	35.60747147	140.1066437
+4258	AEON Tomakomai	3-1-20 Yanagimachi	Tomakomai	1	JP	053-0053	42.63405228	141.6055756
+4259	CoCoLo Nagaoka	"1-611-1, Jonaicho"	Nagaoka	15	JP	940-0061	37.44642639	138.8513184
+4261	AEON Chikusa	2-16-13 Chikusa Chikusa-ku	Nagoya	23	JP	464-0858	35.18141556	136.9066925
+4262	Tenmabashi Keihan City Mall	"1-1, Tenmabashikyomachi, Chuo-ku,"	Osaka	27	JP	540-0032	34.69372177	135.5021667
+4263	Misato Ito Yokado	"2-22, Tenjin, Misato"	Saitama	11	JP	341-0051	35.86162186	139.6455536
+4264	Nagoya BAY CITY	2-1-6 Shinagawacho Minato-ku	Nagoya	12	JP	455-0055	35.10316086	136.8629303
+4265	Utsunomiya Ito Yokado	"6-2-1, Yoto, Utsunomiya"	Tochigi	9	JP	321-8555	36.3824501	139.7341003
+4266	NGO - Chubu Int'l Airport Dep	"1-2, Centrair, Central Japan Intl Airport Centrair-NGO"	Tokoname	23	JP	479-0881	35.25394058	136.9200745
+4267	Seijo	"2-40-25, Seijo,"	Setagaya	13	JP	157-0066	35.64653778	139.6532288
+4268	Shinjuku Nishiguchi	1-12-1 Nishishinjuku	Shinjuku	13	JP	160-0023	35.6898613	139.6973724
+4269	University of Tokyo	7-3-1 Hongo	Bunkyo	13	JP	113-8654	35.71144485	139.7600555
+4271	Okayama Cinema Town Konan	1-25-1Chikkoshinmachi Minami-ku	Okayama	33	JP	702-8056	34.65514374	133.9197083
+4273	KIX - Kansai Int Airport 2F Ar	1 Senshukukonaka	Tajiri	27	JP	549-0011	34.43466568	135.2446594
+4275	SONY Atsugi Technology Center	4-14-4 Asahicho	Atsugi	14	JP	243-0014	35.43254471	139.369339
+4278	You Me Town Yatsushiro	"3-1, Tateumacho, Yatsushiro"	Fukuoka	40	JP	866-0045	33.59009171	130.4016876
+4279	VIA MALL APITA Konannishi	"205, Kamino, Matsutakecho"	Konan	23	JP	483-8342	35.33206558	136.8705444
+4281	AEON Akita Shopping Center	"1-1-1, Goshonojizoden, Akita"	Akita	5	JP	010-1413	39.71982956	140.1023102
+4282	AEON Hamamatsu Ichino	"1981-3, Suwa, Tennocho, Hamamatsu"	Shizuoka	22	JP	435-0052	34.97515106	138.383255
+4286	Atre Shinurayasu	1-1-1 Irifune Urayasu	Urayasu	12	JP	279-0012	35.65393448	139.9022369
+4287	KIX - Kansai Int Airport 4F No	1 Senshukukonaka	Tajiri	27	JP	549-0011	34.43466568	135.2446594
+4288	Ario Kameari	"3-49-3, Kameari,"	Katsushika	13	JP	125-0061	35.74345016	139.8472443
+4289	Sano Premium Outlets Play Ground	"68, Sanoshintoshi"	Sano	9	JP	327-0822	36.30877304	139.5931091
+4290	Beppu Tokiwa	"2-9-1, Kitahama, Beppu"	Oita	44	JP	874-8558	33.23965073	131.6091156
+4291	Tsutaya Ebisubashi	"1-8-19, Dotonbori, Chuo-ku"	Osaka	27	JP	542-0071	34.69372177	135.5021667
+4292	Shirokane Takanawa	1-17-2-102 Shirokane	Minato	13	JP	108-0087	35.65801239	139.7515564
+4293	Okayama University Hospital	"2-5-1, Shikatacho"	Okayama	33	JP	700-8558	34.65514374	133.9197083
+4294	Okinawa Nishihara City	"130, Kadekaru, Nishihara-cho"	Okinawa	47	JP	903-0102	26.33429146	127.8056107
+4295	APITA Nagatsuta	"4-7-1, Nagatsutaminamidai, Midori-ku"	Yokohama	14	JP	226-0018	35.44412231	139.6380768
+4296	Makuhari WBG	"2-6, Nakase, Mihama-ku, Chiba"	Chiba	12	JP	261-7161	35.60747147	140.1066437
+4297	Okurayama Eki-mae	"81, Futoocho, Kohoku-ku,"	Yokohama	14	JP	222-0031	35.44412231	139.6380768
+4298	NEC Head Office Bldg.	"5-7-1, Shiba,"	Minato	13	JP	108-8001	35.65801239	139.7515564
+4299	Nihon University Itabashi Hospital	"30-1, Oyaguchikamicho,"	Itabashi	13	JP	173-0032	35.75120926	139.7092438
+4300	Tenjin Nishi-dori	"1-13-25, Daimyo, Chuo-ku, Fukuoka"	Fukuoka	40	JP	810-0041	33.59009171	130.4016876
+4301	AEON Mito-uchihara Shopping Center	"135, Nishi, Nakaharacho"	Mito	8	JP	319-0394	36.36585999	140.4712372
+4302	Sinyurigaoka L-MYLORD	"1-4-1, Kamiasao, Asao-ku"	Kawasaki	14	JP	215-0021	35.53087616	139.7030029
+4303	Esaka Tokyu Plaza O'ts	"14-8, Toyotsucho"	Suita	27	JP	564-0051	34.75943756	135.516861
+4304	Soka VARIE	"1970, Hikawacho, Soka"	Saitama	11	JP	340-0034	35.86162186	139.6455536
+4306	Tokyo Station City Sapia Tower	"1-7-12 Marunouchi,"	Chiyoda	13	JP	100-0005	35.68374634	139.7685242
+4307	Kobe Sanda Premium Outlets	7-3 Kouzudai Kita-ku	Kobe	28	JP	651-1515	34.68941116	135.195755
+4308	Shizuoka Eki Shinkansen Rachinai	39-1 Kuroganecyo Aoi-ku	Shizuoka	22	JP	420-0851	34.97515106	138.383255
+4309	Hamamatsu Eki Shinkansen Rachinai	140 Kajimachi	Hamamatsu	22	JP	430-0933	34.70401382	137.7316589
+4328	Kurume Kamitsu Bypass	1-7-25 Nobusuma Kurume	Fukuoka	40	JP	830-0058	33.59009171	130.4016876
+4339	DT Sapporo Ishiyama	"7-50 Ishiyama 2-jo 9-chome, Minami-ku"	Sapporo	1	JP	005-0842	43.06203079	141.3543854
+4347	Atsugi Oikawa	1101-1 Oigawa	Atsugi	14	JP	243-0212	35.47004318	139.3404083
+4349	Kochi Ushioe	2-13-28 Ushioshinmachi Kochi	Kochi	39	JP	780-8008	33.55869293	133.5312042
+4352	Toyama Fujinoki	1330 Hiraki Toyama	Toyama	16	JP	930-0944	36.69588089	137.2137451
+4360	Cainz Home Tsurugashima	580-1 Mitsugi Okunaka	Tsurugashima	11	JP	350-2217	35.93461227	139.3930359
+4310	Oita Medical University Hospital	1-1 Idaigaoka Hasamamachi Yufu	Oita	44	JP	879-5593	33.23965073	131.6091156
+4312	Tsutaya Books Kohoko Minamo	2-7-1 Nakagawachuo Tsuzuki-ku	Yokohama	14	JP	222-0003	35.44412231	139.6380768
+4313	LUMINE Ogikubo	1-7-1 Kamiogi	Suginami	13	JP	167-0043	35.70470428	139.6196747
+4314	Hayama Kaigan-Dori	980 Horiuchi	Hayama	14	JP	240-0112	35.27501297	139.5731812
+4315	MIDORI Matsumoto	1-1-1 Fukashi Matsumoto	Nagano	20	JP	390-0815	36.64858246	138.1942139
+4316	Umi Hotaru Parking Area	Umihotaru Nakajimachisaki Kisarazu	Chiba	12	JP	292-0071	35.60747147	140.1066437
+4317	Kochi Azono	1-9-39 Kitamachi Azouno Kochi	Kochi	39	JP	781-0011	33.55869293	133.5312042
+4318	Tsutaya Fukuoka Tenjin	1-20 Imaizumi Chou-ku	Fukuoka	40	JP	810-0021	33.59009171	130.4016876
+4319	AEON Mall Kagamihara	3-8 Nakakayabacho Kakamigahara	Gifu	21	JP	504-0943	35.42327118	136.7606354
+4320	Atsugi Relocate	2-6-20 Nakacho	Atsugi	14	JP	243-0018	35.44099426	139.3644867
+4321	Fukushima Medical University Hospit	1 Hikarigaoka	Fukushima	7	JP	960-1295	37.68998337	140.4705811
+4322	Tsutaya Minato Mirai	4-7-1 Minatomirai Nishi-ku	Yokohama	14	JP	222-0000	35.44412231	139.6380768
+4323	AEON Mall Kusatsu	1-1-1 Shinhamaco	Kusatsu	25	JP	525-0067	35.01314163	135.9599609
+4325	Yokokawa Service Area Up Lane	917 Yokokawa Matsuidamachi	Annaka	10	JP	379-0301	36.32630157	138.8871918
+4326	AEON Kagoshima Tokai	7 Tokai-cho Kagoshima	Kagoshima	46	JP	891-0115	31.59667778	130.5574036
+4327	Ikebukuro Sunshine-dori	"1-20-5 Higashiikebukuro, Ikebukuro Shichifuku Bldg"	Toshima	13	JP	170-0013	35.73080826	139.7154541
+4329	Shibadaimon Hotel Project	2-3-4 Shibakoen	Minato	13	JP	105-0011	35.65683365	139.7522736
+4330	Shinjuku Subnade	Subnade 1 Kabukicho 1-chome	Shinjuku	13	JP	160-0021	35.69379425	139.7034454
+4331	Nissan Technical Center V1 Bldg.	560-2 Okatsukoku	Atsugi	14	JP		35.42308044	139.3165894
+4332	Tsutaya Yurakucho Marui	2-7 Yuraku-cho	Chiyoda	13	JP	100-0006	35.67411041	139.7638092
+4333	Urawa PARCO	11-1 Higashi-takasagocho Urawa-kyu	Saitama	11	JP	330-0055	35.86162186	139.6455536
+4334	Toyama Sogawa Ferio	3-8-38 Sogawa Toyama	Toyama	16	JP	930-0083	36.69588089	137.2137451
+4335	AEON Niigataminami	1-1-1 Shimohayadori-yanagida	Konan-ku	15	JP	950-0150	37.87612534	139.0815582
+4336	Hirakatashi Eki Kitaguchi	2-22 Okahonmachi	Hirakata	27	JP	573-0031	34.81443024	135.6508026
+4337	Tsutaya Higashiura	123-1 Ogawa Kamikesagawa	Higashiura	23	JP	470-2100	34.977108	136.9655457
+4338	Toyohashi COCOLAFRONT	1-55 Ekimae-odori	Toyohashi	23	JP		34.76257706	137.3839874
+4340	Yoyogi Eki-mae	1-38-7 Yoyogi	Shibuya	13	JP	151-0053	35.68278503	139.7014465
+4341	AEON Mall Hinode Public Court	557 Hirai	Hinode	13	JP	190-0182	35.73488235	139.2740326
+4342	AEON Mall Hinode	557 Hirai	Hinode	13	JP	190-0182	35.73488235	139.2740326
+4343	Sapporo University Hospital	"Minami 1-jo Nishi 16-chome, Chuo-ku"	Sapporo	1	JP	060-8543	43.06203079	141.3543854
+4344	Toyota Motor Corp Head Office	1 Toyota-cho Toyota	Toyota	23	JP	471-0826	35.0825119	137.1562805
+4345	Kitasando	3-39-9 Sendagaya	Shibuya	13	JP	151-0051	35.67808914	139.7059021
+4346	Amagasaki Tsukashin	4-8-1 Tsukaguchihonmachi Amagasaki	Hyogo	28	JP	661-0001	34.76191711	135.418045
+4348	AEON Mall Hanyu	2-281-3 Kawasaki Hanyu	Saitama	11	JP	348-0039	35.86162186	139.6455536
+4350	Mina Tsudanuma	1-3-1 Tsudanuma Narashino	Chiba	12	JP	275-0016	35.60747147	140.1066437
+4351	La La Garden Kasukabe	1-1-1 Minami Kasukabe	Saitama	11	JP	344-0064	35.86162186	139.6455536
+4353	Miyoshi Parking Area Down Lane	2218-1 Kamitome Miyoshi-machi	Saitama	11	JP	354-0045	35.86162186	139.6455536
+4354	Kamisato Service Area Up Lane	849-1 Gomyo Kamisato-machi	Saitama	11	JP	369-0317	35.86162186	139.6455536
+4355	Kagoshima OPSHIA	2-3-5 Usuki Kagoshima	Kagoshima	46	JP	890-0073	31.59667778	130.5574036
+4357	Dokkyo Medical Univ Koshigaya Hospi	"2-1-50 Minamikoshigaya, Koshigaya"	Saitama	11	JP	343-8555	35.86162186	139.6455536
+4359	TSUTAYA Wakayama Takamatsu	1 chome Nishitakamatsu Wakayama	Kagawa	37	JP		34.20828247	135.1690369
+4373	Cainz Home Ome	6-9-4 Shinmachi	Ome	13	JP		35.78781891	139.2758179
+4375	Tsukuba	12-2 Inarimae Tsukuba	Tsukuba	8	JP	305-0061	36.08347702	140.0764618
+4383	Tamasakai	3-2-8 Oyamagaoka	Machida	13	JP	194-0215	35.60016251	139.3794403
+4386	Miyazaki Akae Tsunehisa	916 Imaide Tsunehisa	Miyazaki	45	JP	880-0916	31.90772057	131.4202118
+4389	Yokohama Tsurumi	5-27 Suwazaka Tsurumi-ku	Yokohama	14	JP	230-0014	35.44412231	139.6380768
+4390	Miyazaki Aobacho	121-6 Aobacho Miyazaki	Miyazaki	45	JP	880-0842	31.90772057	131.4202118
+4391	Matsuyama Minatomachi	7-1-29 Minatomachi	Matsuyama	38	JP	790-0012	33.83543015	132.7578278
+4393	Utsunomiya Kamitomatsuri	"366-7 Kakenoue Kamitomatsuricho, Utsunomiya"	Tochigi	9	JP	320-0051	36.3824501	139.7341003
+4394	Kitahiroshima Omagari	262 Omagari	Kitahiroshima	1	JP		42.97843933	141.4949036
+4397	Kashihara Chuwaksen	789-1 Kuzumotocho	Kashihara	29	JP		34.52072525	135.806488
+4398	DT-Shinkamagaya	93 Shinkamagaya-Tokuteikukaku-Seirijigyo	Kamagaya	12	JP	273-0107	35.7768364	140.0007782
+4400	Urawa Bessho	3-2-2 Bessho Minami-ku	Saitama	11	JP		35.86162186	139.6455536
+4362	Dokkyo Medical University Hospital	880 Kitakobayashi Mibu-machi	Tochigi	9	JP	321-0293	36.3824501	139.7341003
+4363	KIX - Kansai Int Airport 1F S	1 Senshukukonaka	Tajiri	27	JP	549-0011	34.43466568	135.2446594
+4364	AEON Minamikashiwa	2-5-25 Yutakacho Kashiwa	Chiba	12	JP	277-0854	35.60747147	140.1066437
+4367	AEON Nagoya Dome-mae 1F	4-102-3 Yadaminami Higashi-ku Nagoya	Nagoya	23	JP	461-0048	35.18141556	136.9066925
+4368	Mosaic Mall Kohoku	1-31-1Nakagawachuo Tsuzuki-ku	Yokohama	14	JP	224-0003	35.44412231	139.6380768
+4370	Tsutaya Commercial Mall Hakata	2-6-40 Tokoji Hakata-ku	Fukuoka	40	JP	816-0096	33.59009171	130.4016876
+4372	Roppongi Hills West Walk Lounge	6-10-1 Roppongi	Minato	13	JP		35.66042709	139.7292633
+4374	Kitanomaru Square	"1-12-2, Kudankita,"	Chiyoda	13	JP	102-0073	35.69392395	139.7537231
+4378	AEON Chiba New Town Shopping Center	3-2 Chuokita Inzai	Chiba	12	JP	270-1392	35.60747147	140.1066437
+4379	AEON Fukuoka Ito	113-1 Tokunaga Nishi-ku Fukuoka	Fukuoka	40	JP	819-0375	33.59009171	130.4016876
+4380	Malra Gifu	1100 Mitsuhashi Motosu	Motosu	21	JP	501-0497	35.48301315	136.6787872
+4381	AEON Urawa Misono	3710 Daimon Midori-ku	Saitama	11	JP	336-8760	35.86162186	139.6455536
+4382	Tobu Kuki Eki Station	2-1-1 Chuo Kuki	Saitama	11	JP	346-0003	35.86162186	139.6455536
+4385	Tsutaya Sapporo Kotoni	4-1-1-1 Kotoni Nishi-ku Sapporo	Sapporo	1	JP	063-0814	43.06203079	141.3543854
+4387	Caretta Shiodome	1-8-2 Higashishinbashi	Minato	13	JP	105-7090	35.65801239	139.7515564
+4388	St. Luke's International Hospital	9-1 Akashicho	Chuo	13	JP	104-8560	35.66736221	139.7771301
+4392	Miyazaki Yamakataya	3-4-12 Tachibanadori-higashi	Miyazaki	45	JP	880-8602	31.91614342	131.4239197
+4395	Akihabara Eki-mae	1-6-5 Kandasakumacho	Chiyoda	13	JP		35.69789505	139.7737274
+4399	AEON Mall Chikushino	434-1 Ryumyoli	Chikushino	40	JP	818-0042	33.49629974	130.5157013
+4401	TSUTAYA Sanarudai	621-1 Irinocho	Hamamatsu	22	JP	432-8061	34.70072556	137.6989594

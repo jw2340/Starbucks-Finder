@@ -1,0 +1,38 @@
+#!/usr/bin/env php
+<?php
+    // configuration
+    require("../includes/config.php");
+    
+    // accepts path to starbucks.csv from command line argument (~/vhosts/finalproject/starbucks.csv)
+    $filename = $argv[1];    
+    
+    // check whether file exists
+    if (file_exists($filename) == false) 
+    {
+        echo "The file $filename does not exist \r\n";
+    }
+    
+    //check whether file is readable
+    else if (is_readable($filename) == false) 
+    {
+        echo "The file $filename is not readable \r\n";
+    }
+    
+    else
+    {
+        // open file
+        $starbucks = fopen($filename, "r");
+
+        // print contents of csv file
+        
+        $row = query("SELECT * FROM places");
+        while ($data = fgetcsv($starbucks, 5000, "\t")) 
+        {
+            query("INSERT INTO places (store_id, store_name, street_combined, city, country_subdivision, country, postal_code, latitude, longitude) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)", $data[0], $data[1], $data[2], $data[3], $data[4], $data[5], $data[6], $data[7], $data[8]); 
+        }
+        // close file
+        fclose($starbucks);
+        
+    }
+
+?>
